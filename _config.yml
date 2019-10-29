@@ -29,7 +29,7 @@ permalink: pretty
 
 
 # Theme settings
-theme: minimal-mistakes-jekyll
+remote_theme: 'mmistakes/minimal-mistakes@4.17.2'
 minimal_mistakes_skin: 'air'
 title_separator: '|'
 teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
@@ -38,6 +38,8 @@ logo: /assets/images/logo.png
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
