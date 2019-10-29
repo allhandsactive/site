@@ -11,7 +11,7 @@ excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor
 feature_row:
   - title: "Become a Member"
     excerpt: "Our most valuable asset is our members! We have multiple tiers of membership to fit your needs."
-    url: "/get-involved/#membership"
+    url: "#membership"
     btn_label: "Membership"
     btn_class: "btn--primary"
   - title: "Make a Donation"
