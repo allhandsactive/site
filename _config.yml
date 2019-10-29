@@ -1,32 +1,43 @@
+# Site Settings
 title: All Hands Active
-email: board@allhandsactive.org
-description: >- # this means to ignore newlines until "baseurl:"
+subtitle: Ann Arbor's Maker Space!
+author:
+  name: All Hands Active
+  email: board@allhandsactive.org
+description: >- 
   Ann Arbor's Maker Space! Offering tools, resources, classes,
   meet-ups, events, and workspace for makers and hackers in the
   A2 and Ypsi area.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://site2.allhandsactive.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AllHandsActive
-github_username:  allhandsactive
+baseurl: ''
+url: 'https://site2.allhandsactive.org'
+repository: 'allhandsactive/site'
 
-# change social media variables to fit theme
+
+# Social media variables
+twitter_username: AllHandsActive
 facebook_username: AHA-All-Hands-Active-300100514925
 meetup_username: allhandsactive
+github_username:  allhandsactive
+
 
 # Build settings
-markdown: kramdown
-theme: minima
+kramdown:
+  input: GFM
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE']
+include: ["_pages"]
+permalink: pretty
+
+
+# Theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: 'air'
+title_separator: '|'
+teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
+logo: /assets/images/logo.png
+
+
+# Plugins
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-seo-tag
+  - jekyll-sitemap
