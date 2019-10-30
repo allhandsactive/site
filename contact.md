@@ -14,12 +14,33 @@ header:
   caption: "Photo by [**Nicolas Thomas**](https://unsplash.com/@nicolasthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
 
-intro: 
-  - title: Want to Know More?
-    excerpt: "Send us an email and we'll get back to you as soon as possible!"
+feature_row1:
+  - title: "Location"
+    excerpt: >-
+      <p>255 E. Liberty St.<br/>
+      Ann Arbor, MI 48501</p>
+      <p><b>Disability accessible entrance:</b><br/>
+      Behind building, off of N. 5th Ave.</p>
+  - title: "Open Hours"
+    excerpt: >-
+      <p>Friday: 2pm - 10pm<br/>
+      Saturday: 2pm - 6pm</p>
+      <p><b>Doesn't work for you?</b><br/>
+      No problem! Email us to schedule a visit!</p>
+  - title: "Our Wiki"
+    excerpt: >-
+      <p>A huge repository of additional information is located on our wiki!</p>
+      <p><a href="https://wiki.allhandsactive.org/Main_Page">wiki.allhandsactive.org</a><br/>
+      (take a peek at our <a href="https://wiki.allhandsactive.org/Wishlist">wishlist</a>)</p>
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row1" %}
+
+### Contact Us
+{: .text-center}
+
+Send us an email and we'll get back to you as soon as possible!
+{: .text-center}
 
 <form action="#" style="width: 50%">
   <input type="text" name="first_name" placeholder="Jane" aria-label="first name" style="width: 46.5%; float: left; margin-bottom: 1em" />
