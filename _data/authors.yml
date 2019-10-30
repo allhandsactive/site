@@ -1,0 +1,18 @@
+AHA:
+  name: "All Hands Active"
+  avatar: "/assets/images/avatar.png"
+  bio: "Ann Arbor's Maker Space"
+  location: "255 E. Liberty St."
+  links:
+    - label: "Meetup"
+      icon: "fab fa-fw fa-meetup"
+      url: "https://www.meetup.com/AllHandsActive/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/allhandsactive"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/allhandsactivea2/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/allhandsactive/"
