@@ -1,11 +1,11 @@
 main:
   - title: Membership
-    url: /membership/
+    url: /membership
   - title: "Events"
     url: https://www.meetup.com/AllHandsActive/events/
   - title: "Get Involved"
-    url: /get-involved/
+    url: /get-involved
   - title: "About Us"
-    url: /about/
+    url: /about
   - title: "Contact"
-    url: /contact/
+    url: /contact
