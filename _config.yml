@@ -29,11 +29,30 @@ permalink: pretty
 
 
 # Theme settings
-remote_theme: 'mmistakes/minimal-mistakes@4.17.2'
+remote_theme: mmistakes/minimal-mistakes@4.17.2
 minimal_mistakes_skin: 'air'
 title_separator: '|'
 teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
 logo: /assets/images/logo.png
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+
+# Footer socials
+footer:
+  links:
+    - label: "Meetup"
+      icon: "fab fa-fw fa-meetup"
+      url: "https://www.meetup.com/AllHandsActive/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/allhandsactive"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/allhandsactivea2/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/allhandsactive/"
 
 
 # Plugins
