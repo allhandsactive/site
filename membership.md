@@ -4,61 +4,67 @@ layout: splash
 permalink: /membership
 header:
   overlay_color: "#000"
-  overlay_filter: "0.55"
-  overlay_image: /assets/images/electronics-repair.jpg
+  overlay_filter: "0.35"
+  overlay_image: /assets/images/membership-splash.jpg
   actions:
     - label: "Get Involved"
       url: "/get-involved"
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
-  caption: "Photo by [**Nicolas Thomas**](https://unsplash.com/@nicolasthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
+  caption: "Photo from [**Unsplash**](https://unsplash.com)"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
 
-intro: 
-  - title: Visit Us!
-    excerpt: "We host Open Hours for the public on Fridays from 2pm to 10pm and Saturdays from 2pm to 6pm. Stop in and check us out! Or, contact us to schedule a visit!"
-    url: "/contact/"
-    btn_label: "Contact Us"
-    btn_class: "btn--primary"
-
 feature_row1:
-  - image_path: assets/images/about-filler.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Hands painted in the shape of a heart"
-    title: "About Us"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/about/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row2:
-  - image_path: assets/images/get-involved-filler-1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "People gathered to do arts and crafts"
-    title: "Get Involved"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/get-involved/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row3:
-  - image_path: assets/images/visit-filler.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Hands painted in the shape of a heart"
-    title: "Make a Donation"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/donate/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - title: "Standard - $50/month"
+    excerpt: >-
+      <ul>
+        <li>Eligible for 24/7 building access</li>
+        <li>Vote/Run in Board elections</li>
+        <li>$20 tool training class (free refresher)</li>
+        <li>2GB cloud storage</li>
+        <li>Free wife (max available)</li>
+        <li>Reduced Laser Cutter cost ($0.50/min)</li>
+        <li>Access to Members mailing list</li>
+        <li>Storage locker (if available)</li>
+        <li>Add-on household members: $15/person</li>
+        <li>Required volunteer hours: <b>1hr/month</b></li>
+      </ul>
+  - title: "Student - $20/month"
+    excerpt: >-
+      <ul>
+        <li>Eligible for 24/7 building access</li>
+        <li>Vote/Run in Board elections</li>
+        <li>$20 tool training class (free refresher)</li>
+        <li>1GB cloud storage</li>
+        <li>Free wife (max available)</li>
+        <li>Reduced Laser Cutter cost ($0.50/min)</li>
+        <li>Access to Members mailing list</li>
+        <li>Required volunteer hours: <b>5hr/month</b></li>
+      </ul>
+  - title: "Volunteer - Free"
+    excerpt: >-
+      <ul>
+        <li>Eligible for 24/7 building access</li>
+        <li>Vote/Run in Board elections</li>
+        <li>Free tool training class (free refresher)</li>
+        <li>1GB cloud storage</li>
+        <li>Free wife (max available)</li>
+        <li>Reduced Laser Cutter cost ($0.50/min)</li>
+        <li>Access to Members mailing list</li>
+        <li>Required volunteer hours: <b>20hr/month</b></li>
+      </ul>
 ---
 
-{% include feature_row id="intro" type="center" %}
+# How it Works
+{: .text-center}
 
-{% include feature_row id="feature_row1" type="left" %}
+We’d love to have you join our community workspace.  Our most valuable asset is our members’ skills, desire to share knowledge, and passion to make Ann Arbor smarter! You’ll gain access to low and high tech tools, many of which you likely won’t have at home (CNC/Laser Cutter/3D Printer/Vinyl Cutter). We provide networking opportunities for creative folks to experience the pulse of the Maker movement as we help to educate those in the Ann Arbor Area.
+{: .text-justify}
 
-{% include feature_row id="feature_row2" type="right" %}
+<ol>
+</ol>
 
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row1" %}
 
 # Subscribe
 {: .text-center}
