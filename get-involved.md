@@ -1,52 +1,73 @@
 ---
-title: "Get Involved"
+title: "Get Involved "
 layout: splash
-permalink: /get-involved/
+permalink: /get-involved
 header:
   overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: /assets/images/get-involved-splash.jpg
-  caption: "Photo by [**Jo Szczepanska**](https://unsplash.com/@joszczepanska?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor pretium maximus."
-feature_row:
-  - title: "Become a Member"
-    excerpt: "Our most valuable asset is our members! We have multiple tiers of membership to fit your needs."
-    url: "/get-involved/#membership"
-    btn_label: "Membership"
-    btn_class: "btn--primary"
-  - title: "Make a Donation"
-    excerpt: "Curabitur libero dolor, eleifend eget tincidunt ac, tincidunt in felis. Nunc cursus dui eget placerat eleifend."
-    url: "#test-link"
-    btn_label: "Donate"
-    btn_class: "btn--primary"
-  - title: "Visit"
-    excerpt: "Curabitur libero dolor, eleifend eget tincidunt ac, tincidunt in felis. Nunc cursus dui eget placerat eleifend."
-    url: "#test-link"
-    btn_label: "Open Hours"
-    btn_class: "btn--primary"
-feature_row2:
-  - title: "Volunteer"
-    excerpt: "Curabitur libero dolor, eleifend eget tincidunt ac, tincidunt in felis. Nunc cursus dui eget placerat eleifend."
-    url: "#test-link"
-    btn_label: "Volunteer"
-    btn_class: "btn--primary"
-  - title: "Teach a Class"
-    excerpt: "Curabitur libero dolor, eleifend eget tincidunt ac, tincidunt in felis. Nunc cursus dui eget placerat eleifend."
-    url: "#test-link"
-    btn_label: "Teach"
-    btn_class: "btn--primary"
-  - title: "Make a Suggestion"
-    excerpt: "Curabitur libero dolor, eleifend eget tincidunt ac, tincidunt in felis. Nunc cursus dui eget placerat eleifend."
-    url: "#test-link"
+  overlay_filter: "0.55"
+  overlay_image: /assets/images/electronics-repair.jpg
+  actions:
+    - label: "Become a Member"
+      url: "/membership/"
+    - label: "Donate"
+      url: "/donate/"
+  caption: "Photo by [**Nicolas Thomas**](https://unsplash.com/@nicolasthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
+
+intro: 
+  - title: Visit Us!
+    excerpt: "We host Open Hours for the public on Fridays from 2pm to 10pm and Saturdays from 2pm to 6pm. Stop in and check us out! Or, contact us to schedule a visit!"
+    url: "/contact/"
     btn_label: "Contact Us"
+    btn_class: "btn--primary"
+
+feature_row1:
+  - image_path: assets/images/about-filler.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Hands painted in the shape of a heart"
+    title: "About Us"
+    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: assets/images/get-involved-filler-1.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "People gathered to do arts and crafts"
+    title: "Get Involved"
+    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    url: "/get-involved/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row3:
+  - image_path: assets/images/visit-filler.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Hands painted in the shape of a heart"
+    title: "Make a Donation"
+    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    url: "/donate/"
+    btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row1" type="left" %}
 
-# <a id="membership"></a> Become a Member
+{% include feature_row id="feature_row2" type="right" %}
 
-We’d love to have you join our community workspace.  Our most valuable asset is our members’ skills, desire to share knowledge, and passion to make Ann Arbor smarter! You’ll gain access to low and high tech tools, many of which you likely won’t have at home (CNC/Laser Cutter/3D Printer/Vinyl Cutter). We provide networking opportunities for creative folks to experience the pulse of the Maker movement as we help to educate those in the Ann Arbor Area.
+{% include feature_row id="feature_row3" type="left" %}
 
+# Subscribe
+{: .text-center}
+
+Integer efficitur diam ligula, nec tempor lacus gravida in.
+{: .text-center}
+
+<div>
+  <input type="text" name="email" id="email" placeholder="joe@example.com" aria-labelledby="searchbutton" style="width: 25%; background-color: #fff; padding:.5em">
+  <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
+</div>
+{: .text-center}
