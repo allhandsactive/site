@@ -27,7 +27,7 @@ feature_row1:
     alt: "Hands painted in the shape of a heart"
     title: "About Us"
     excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/about/"
+    url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -37,7 +37,7 @@ feature_row2:
     alt: "People gathered to do arts and crafts"
     title: "Get Involved"
     excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/get-involved/"
+    url: "/get-involved"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
