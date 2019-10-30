@@ -4,8 +4,8 @@ layout: splash
 permalink: /contact
 header:
   overlay_color: "#000"
-  overlay_filter: "0.55"
-  overlay_image: /assets/images/electronics-repair.jpg
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/contact-splash.jpg
   actions:
     - label: "Become a Member"
       url: "/membership"
@@ -15,59 +15,17 @@ header:
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
 
 intro: 
-  - title: Visit Us!
-    excerpt: "We host Open Hours for the public on Fridays from 2pm to 10pm and Saturdays from 2pm to 6pm. Stop in and check us out! Or, contact us to schedule a visit!"
-    url: "/contact/"
-    btn_label: "Contact Us"
-    btn_class: "btn--primary"
-
-feature_row1:
-  - image_path: assets/images/about-filler.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Hands painted in the shape of a heart"
-    title: "About Us"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/about/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row2:
-  - image_path: assets/images/get-involved-filler-1.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "People gathered to do arts and crafts"
-    title: "Get Involved"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/get-involved/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_row3:
-  - image_path: assets/images/visit-filler.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Hands painted in the shape of a heart"
-    title: "Make a Donation"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
-    url: "/donate/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - title: Want to Know More?
+    excerpt: "Send us an email and we'll get back to you as soon as possible!"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row1" type="left" %}
-
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-# Subscribe
-{: .text-center}
-
-Integer efficitur diam ligula, nec tempor lacus gravida in.
-{: .text-center}
-
-<div>
-  <input type="text" name="email" id="email" placeholder="joe@example.com" aria-labelledby="searchbutton" style="width: 25%; background-color: #fff; padding:.5em">
-  <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
-</div>
-{: .text-center}
+<form action="#" style="width: 50%">
+  <input type="text" name="first_name" placeholder="Jane" aria-label="first name" style="width: 46.5%; float: left; margin-bottom: 1em" />
+  <input type="text" name="last_name" placeholder="Smith" aria-label="last name" style="width: 46.5%; float: right; margin-bottom: 1em" />
+  <input type="email" name="email" aria-label="email" style="margin-bottom: 1em" placeholder="john.smith@gmail.com" />
+  <textarea cols="46" rows="5" name="comments" aria-label="comments" style="margin-bottom: 1em" placeholder="Send us a message"></textarea>
+  <input class="btn btn--primary" type="submit" value="Submit" />
+</form>
+{: .align-center}
