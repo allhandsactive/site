@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.55"
-  overlay_image: /assets/images/electronics-repair.jpg
+  overlay_image: /assets/images/home-splash.jpg
   actions:
     - label: "Become a Member"
       url: "/membership"
