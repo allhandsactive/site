@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/electronics-repair.jpg
   actions:
     - label: "Become a Member"
-      url: "/membership/"
+      url: "/membership"
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
   caption: "Photo by [**Nicolas Thomas**](https://unsplash.com/@nicolasthomas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [**Unsplash**](https://unsplash.com)"
