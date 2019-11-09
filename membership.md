@@ -22,7 +22,7 @@ feature_row1:
         <li>Vote/Run in Board elections</li>
         <li>$20 tool training class (free refresher)</li>
         <li>2GB cloud storage</li>
-        <li>Free wife (max available)</li>
+        <li>Free wifi (max available)</li>
         <li>Reduced Laser Cutter cost ($0.50/min)</li>
         <li>Access to Members mailing list</li>
         <li>Storage locker (if available)</li>
@@ -36,7 +36,7 @@ feature_row1:
         <li>Vote/Run in Board elections</li>
         <li>$20 tool training class (free refresher)</li>
         <li>1GB cloud storage</li>
-        <li>Free wife (max available)</li>
+        <li>Free wifi (max available)</li>
         <li>Reduced Laser Cutter cost ($0.50/min)</li>
         <li>Access to Members mailing list</li>
         <li>Required volunteer hours: <b>5hr/month</b></li>
@@ -48,7 +48,7 @@ feature_row1:
         <li>Vote/Run in Board elections</li>
         <li>Free tool training class (free refresher)</li>
         <li>1GB cloud storage</li>
-        <li>Free wife (max available)</li>
+        <li>Free wifi (max available)</li>
         <li>Reduced Laser Cutter cost ($0.50/min)</li>
         <li>Access to Members mailing list</li>
         <li>Required volunteer hours: <b>20hr/month</b></li>
