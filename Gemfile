@@ -3,7 +3,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "jekyll", "~> 3.8.6"
+gem "jekyll", "~> 4.0.0"
 
 group :jekyll_plugins do
   gem 'jekyll-remote-theme'
