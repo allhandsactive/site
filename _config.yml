@@ -60,3 +60,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+# set the proper timezone
+timezone: America/Detroit
+
+# simulate github pages
+safe: true
