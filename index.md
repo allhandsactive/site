@@ -12,7 +12,7 @@ header:
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
   caption: "Photo from [**Unsplash**](https://unsplash.com)"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
+excerpt: "Ann Arbor's original community hackerspace and makerspace."
 
 intro: 
   - title: Example Call to Action Notice
@@ -26,7 +26,7 @@ feature_row1:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Hands painted in the shape of a heart"
     title: "About Us"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    excerpt: "Founded in 2009, we're Ann Arbor's original hackerspace and makerspace. We're a welcoming community of makers, committed to making our space and tools a valuable community resource."
     url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -36,7 +36,7 @@ feature_row2:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "People gathered to do arts and crafts"
     title: "Get Involved"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    excerpt: "Visit us during open hours to see the space, or take one of our many classes! We also have volunteering opportunities, and are always accepting new members."
     url: "/get-involved"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -46,7 +46,7 @@ feature_row3:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Hands painted in the shape of a heart"
     title: "Donate to Our 2020 Fundraiser"
-    excerpt: "Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem."
+    excerpt: "We've been a cornerstone of the maker community in Ann Arbor since 2009, and want to continue being an important community resource long into the future. But we need your support! You will feel good knowing you are helping us provide education for the community, and helping us keep our tools accessible for anyone that needs them."
     url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
     btn_label: "Donate"
     btn_class: "btn--primary"
@@ -63,7 +63,7 @@ feature_row3:
 # Subscribe
 {: .text-center}
 
-Integer efficitur diam ligula, nec tempor lacus gravida in.
+Stay informed about all things All Hands Active!
 {: .text-center}
 
 <div>
