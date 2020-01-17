@@ -15,11 +15,11 @@ header:
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
   caption: "Photo from [**Unsplash**](https://unsplash.com)"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
+excerpt: "Founded in 2009, we're Ann Arbor's original makerspace and hackerspace. We're a volunteer-run, 501c3 non-profit, and a welcoming community of makers and hackers committed to making our space an important resource for the community."
 
 feature_row1:
-  - title: "Example Aside"
-    excerpt: "Add a quote, or a call to action, etc. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
+  - title: "We depend on community support"
+    excerpt: "We strive to be an important resource for the community, and in turn we need support from the community to exist. Please consider how you can support us in our mission."
     url: "#test-link"
     btn_label: "Donate"
     btn_class: "btn--primary"
@@ -29,11 +29,9 @@ feature_row1:
 
 ![image-left](/assets/images/mission-filler-1.jpg){: .align-left; style="max-width: 33%; float: left; margin-top: .9em; margin-right: 1em; border-radius: .25em"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet. Aliquam facilisis euismod nulla in sodales. Vivamus nec orci nibh. Integer vel felis volutpat, aliquam dolor vehicula, tempus augue. Maecenas ullamcorper rhoncus gravida. 
+Makers gather at All Hands Active. We take our world and play with it like legos. Mixing and matching recipes of life like a top chef with a picky client. A dash of electronics, a pinch of art, a scoop of biology and a MONSTER amount of awesome!
 
-Vestibulum gravida iaculis condimentum. Vestibulum quis molestie ligula, eu eleifend elit. Suspendisse potenti. Ut porttitor tempus nisl, sit amet luctus sapien tincidunt non. Cras bibendum elementum tortor, quis finibus nisl ornare at. Aenean laoreet vel nulla et congue. Donec viverra ante nibh, vel semper ante dictum vel. Curabitur hendrerit ut elit eget maximus.
-
-Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem. In aliquam dolor nec egestas vulputate. Integer efficitur diam ligula, nec tempor lacus gravida in.
+All Hands Active is a volunteer-run 501(c)(3) non-profit community organization. We want to make Ann Arbor smarter, through hosting classes and workshops to share our skills, by making our tools and workshop accessible to the wider community, and by cultivating a welcoming community of hackers, makers, and creative types.
 
 <hr>
 
@@ -44,13 +42,10 @@ Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ulla
 <div style="width: 45%; float: left">
   <ul>
     <li style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
+      We've served as an important space and resource for the local community for 10 years, and look forward to many more years of making and education.
     </li>
     <li style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
-    </li>
-    <li style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
+      Hundreds of projects have come to life at All Hands Active, using our equipment. From electric cars and bikes, to laser-engraved gifts, to all manner of circuits and apps.
     </li>
   </ul>
 </div>
@@ -58,13 +53,10 @@ Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ulla
 <div style="width: 45%; float: right">
   <ul>
     <li style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
+      We make our tools and space as accessible as possible with low costs and classes. Good things happen when barriers between people and their creativity are removed.
     </li>
     <li  style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
-    </li>
-    <li style="font-size: .85em; padding-bottom: .5em;">
-      Nulla suscipit, nulla quis convallis vehicula, felis ex vestibulum neque, a ullamcorper arcu odio quis dui. Nullam sit amet porta libero, at mattis dui. Sed posuere elit velit, ac ornare lorem venenatis non. Aliquam porta arcu odio, convallis pharetra lorem maximus eu. Donec at metus lorem.
+      We cultivate a welcoming community of makers, hackers and creative types eager to share their skills and knowledge.
     </li>
   </ul>
 </div>
