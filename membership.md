@@ -12,7 +12,7 @@ header:
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
   caption: "Photo from [**Unsplash**](https://unsplash.com)"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras malesuada scelerisque mauris sit amet aliquet. Mauris consectetur tincidunt quam quis laoreet."
+excerpt: "Join the community!"
 
 feature_row1:
   - title: "Standard - $50/month"
@@ -73,7 +73,7 @@ We’d love to have you join our community workspace.  Our most valuable asset i
 # Subscribe
 {: .text-center}
 
-Integer efficitur diam ligula, nec tempor lacus gravida in.
+Stay informed about all things All Hands Active!
 {: .text-center}
 
 <div>
