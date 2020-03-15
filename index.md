@@ -7,6 +7,18 @@ header:
   overlay_image: /assets/images/ahayarn.jpg
 excerpt: "Ann Arbor's all-volunteer non-profit community makerspace."
 
+intro: 
+  - title: "COVID-19 Update:"
+    excerpt: "**PLEASE NOTE:** AHA! has discontinued most public events in
+      efforts to contain coronavirus. **Public Hours and classes are
+      suspended until further notice.**  Member access is permitted, but
+      members are encouraged not to congregate in groups of more than 5, allow
+      6 feet of personal space, follow all CDC personal hygiene guidelines, and
+      as always, leave the space cleaner than you found it, now including
+      disinfecting surfaces using the supplies available."
+
+
+
 feature_row1:
   - title: "What is a makerspace?"
     image_path: assets/images/mural-landscape.jpg
