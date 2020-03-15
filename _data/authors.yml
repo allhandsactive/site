@@ -2,7 +2,7 @@ AHA:
   name: "All Hands Active"
   avatar: "/assets/images/avatar.png"
   bio: "Ann Arbor's Maker Space"
-  location: "255 E. Liberty St."
+  location: "255 E. Liberty St. Ste 225"
   links:
     - label: "Meetup"
       icon: "fab fa-fw fa-meetup"

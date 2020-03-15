@@ -1,10 +1,10 @@
 # Site Settings
 title: All Hands Active
-subtitle: Ann Arbor's Maker Space!
+subtitle: 255 E. Liberty St. Ste 225
 author:
   name: All Hands Active
   email: board@allhandsactive.org
-description: >- 
+description: >-
   Ann Arbor's Maker Space! Offering tools, resources, classes,
   meet-ups, events, and workspace for makers and hackers in the
   A2 and Ypsi area.
@@ -30,11 +30,10 @@ permalink: pretty
 
 # Theme settings
 remote_theme: mmistakes/minimal-mistakes@4.19.0
-minimal_mistakes_skin: 'air'
+minimal_mistakes_skin: 'contrast'
 title_separator: '|'
 teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
-logo: /assets/images/logo.png
-
+logo: /assets/images/rhino.png
 
 # Footer socials
 footer:
