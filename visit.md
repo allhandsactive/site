@@ -22,15 +22,11 @@ feature_row1:
       5th Ave leads to an elevator.</p>
   - title: "Public Hours"
     excerpt: >-
-      <p>Friday: 2pm - 8pm<br/>
-      Saturday: 2pm - 6pm</p>
-      <p>We host public weekly public hours when anyone is welcome to full use
-      of the space. Members will be on hand to answer questions, help you with
-      a project, or .<p>
-      <p><b>Doesn't work for you?</b><br/>
-      No problem! Email us to schedule a visit!</p>
+      Due to COVID-19, public hours are suspended until further notice.
   - title: "Events"
     excerpt: >-
+      <p><b>Coronavirus update:</b> Due to COVID-19, most events are suspended until further
+      notice. Certain one-on-one and small group events may still occur. Contact event organizers for details.</p>
       <p>We host many public events each month including meetups, classes,
       drop-in repair clinics, space improvement days and even the occasional
       party!</p>
