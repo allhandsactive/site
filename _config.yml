@@ -29,7 +29,7 @@ permalink: pretty
 
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes@4.17.2
+remote_theme: mmistakes/minimal-mistakes@4.19.0
 minimal_mistakes_skin: 'air'
 title_separator: '|'
 teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
