@@ -14,7 +14,7 @@ header:
   caption: "Photo from [**Unsplash**](https://unsplash.com)"
 excerpt: "Ann Arbor's original community hackerspace and makerspace."
 
-intro: 
+intro:
   - title: Example Call to Action Notice
     excerpt: "Use this area to announce changes to open hours, classes, events, etc. Remove button if not needed, or use to link to fundraisers, meetup events, etc."
     url: "#test-link"
@@ -60,7 +60,7 @@ feature_row3:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-# Subscribe
+## Subscribe
 {: .text-center}
 
 Stay informed about all things All Hands Active!
@@ -71,4 +71,3 @@ Stay informed about all things All Hands Active!
   <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
 </div>
 {: .text-center}
-
