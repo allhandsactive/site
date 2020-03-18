@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "About"
 layout: single
 classes: wide
 permalink: /about
@@ -7,56 +7,52 @@ author_profile: true
 author: AHA
 header:
   overlay_color: "#000"
-  overlay_filter: "0.55"
-  overlay_image: /assets/images/about-splash.jpg
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/prayerwire.jpg
   actions:
-    - label: "Become a Member"
-      url: "/membership"
+    - label: "Visit"
+      url: "/visit"
     - label: "Donate"
       url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
-  caption: "Photo from [**Unsplash**](https://unsplash.com)"
-excerpt: "Founded in 2009, we're Ann Arbor's original makerspace and hackerspace. We're a volunteer-run, 501c3 non-profit, and a welcoming community of makers and hackers committed to making our space an important resource for the community."
+excerpt: "We're a welcoming community of makers and hackers
+  committed to sharing and democratizing technology&mdash;from
+  circuitboard prototyping to spinning wool.
+  Founded in 2009, AHA! is Ann Arbor's original makerspace and
+  hackerspace. We centralize resources, tools, and expertise for
+  _learning_, _making_, and _doing_."
 
 feature_row1:
-  - title: "We depend on community support"
-    excerpt: "We strive to be an important resource for the community, and in turn we need support from the community to exist. Please consider how you can support us in our mission."
+  - title: "We depend on community support!"
+    excerpt: "We are a valuable community resource, and in turn we are supported directly by the community. Please consider how you can support us in our mission!"
     url: "#test-link"
     btn_label: "Donate"
     btn_class: "btn--primary"
 ---
 
-# Our Mission
+![image-left](/assets/images/partsbins-landscape.jpg){: .align-left; style="max-width: 33%; float: left; margin-top: .9em; margin-right: 1em; border-radius: .25em"}
 
-![image-left](/assets/images/mission-filler-1.jpg){: .align-left; style="max-width: 33%; float: left; margin-top: .9em; margin-right: 1em; border-radius: .25em"}
+**AHA! is a space to create.** We help with a wide assortment of processes like
+souldering, sewing, laser cutting, software development, 3d printing, CNC
+routing, app development, carpentry, machining, Arduino and embedded systems
+programming. Our goal is to make technology and fabrication as fun and
+empowering as playing with Legos. We put diverse skills and equipment under one
+roof to accomodate the unanticipated needs of creative and innovative projects.
 
-Makers gather at All Hands Active. We take our world and play with it like legos. Mixing and matching recipes of life like a top chef with a picky client. A dash of electronics, a pinch of art, a scoop of biology and a MONSTER amount of awesome!
+We believe that **if you can't fix it, you don't own it**. At AHA! you can take
+apart the things you take for granted: learn how they work and how to adapt
+them to _your_ purposes!
 
-All Hands Active is a volunteer-run 501(c)(3) non-profit community organization. We want to make Ann Arbor smarter, through hosting classes and workshops to share our skills, by making our tools and workshop accessible to the wider community, and by cultivating a welcoming community of hackers, makers, and creative types.
+We make Ann Arbor smarter by hosting classes and workshops, sharing our skills,
+making our tools and workshop accessible to the wider community, and
+cultivating a welcoming community of hackers, makers and creative types.
+
+We strive to be as accessible as possible with low costs, classes and a
+welcoming environment for all. Good things happen when we lower barriers
+between people and their creativity.
 
 <hr>
 
 {% include feature_row id="feature_row1" type="center" %}
 
-# Our Accomplishments
-
-<div style="width: 45%; float: left">
-  <ul>
-    <li style="font-size: .85em; padding-bottom: .5em;">
-      We've served as an important space and resource for the local community for 10 years, and look forward to many more years of making and education.
-    </li>
-    <li style="font-size: .85em; padding-bottom: .5em;">
-      Hundreds of projects have come to life at All Hands Active, using our equipment. From electric cars and bikes, to laser-engraved gifts, to all manner of circuits and apps.
-    </li>
-  </ul>
-</div>
-
-<div style="width: 45%; float: right">
-  <ul>
-    <li style="font-size: .85em; padding-bottom: .5em;">
-      We make our tools and space as accessible as possible with low costs and classes. Good things happen when barriers between people and their creativity are removed.
-    </li>
-    <li  style="font-size: .85em; padding-bottom: .5em;">
-      We cultivate a welcoming community of makers, hackers and creative types eager to share their skills and knowledge.
-    </li>
-  </ul>
-</div>
+All Hands Active is structured as an all volunteer-run 501(c)(3) non-profit
+community organization. 
