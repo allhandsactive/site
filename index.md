@@ -5,9 +5,14 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/ahayarn.jpg
+  actions:
+    - label: "Visit"
+      url: "/visit"
+    - label: "Donate"
+      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
 excerpt: "Ann Arbor's all-volunteer non-profit community makerspace."
 
-intro: 
+intro:
   - title: "COVID-19 Update:"
     excerpt: "**PLEASE NOTE:** AHA! has discontinued most public events in
       efforts to contain coronavirus. **Public Hours and classes are
@@ -59,4 +64,3 @@ Join our announcements email list!
   <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
 </div>
 {: .text-center}
-

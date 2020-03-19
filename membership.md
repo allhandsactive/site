@@ -6,6 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/steam-expo-pano.jpg
+  actions:
+    - label: "Visit"
+      url: "/visit"
+    - label: "Donate"
+      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
 excerpt: "Join the community!"
 
 feature_row1:

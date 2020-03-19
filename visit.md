@@ -6,6 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/laserrelief-pano.jpg
+  actions:
+    - label: "Email"
+      url: "mailto:info@allhandsactive.org"
+    - label: "Donate"
+      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
 excerpt: "Come get to know us!"
 
 feature_row1:
