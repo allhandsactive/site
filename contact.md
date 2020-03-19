@@ -9,8 +9,10 @@ header:
   actions:
     - label: "Email"
       url: "mailto:info@allhandsactive.org"
-    - label: "Visit in person"
+    - label: "Visit"
       url: "/visit"
+    - label: "Donate"
+      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
 excerpt: "Reach us by email, or visit us in person."
 ---
 

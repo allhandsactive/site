@@ -24,7 +24,7 @@ excerpt: "We're a welcoming community of makers and hackers
 feature_row1:
   - title: "We depend on community support!"
     excerpt: "We are a valuable community resource, and in turn we are supported directly by the community. Please consider how you can support us in our mission!"
-    url: "#test-link"
+    url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
     btn_label: "Donate"
     btn_class: "btn--primary"
 ---
@@ -55,4 +55,4 @@ between people and their creativity.
 {% include feature_row id="feature_row1" type="center" %}
 
 All Hands Active is structured as an all volunteer-run 501(c)(3) non-profit
-community organization. 
+community organization.
