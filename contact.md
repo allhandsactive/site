@@ -16,22 +16,22 @@ header:
 excerpt: "Reach us by email, or visit us in person."
 ---
 
-### Email
+## Email
 
 info@allhandsactive.org
 
-### Mailing address
+## Mailing address
 
 255 E. Liberty St. Suite 225<br/>
 Ann Arbor, MI 48104
 
-### Internet Relay Chat
+## Internet Relay Chat
 
 \#allhandsactive<br />
 on the <a href="https://freenode.org">Freenode</a> IRC network
 
 
-### Contact Form
+## Contact Form
 
 Use this form to send us an email
 

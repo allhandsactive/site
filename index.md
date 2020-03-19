@@ -53,7 +53,7 @@ feature_row2:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-# Subscribe
+## Subscribe
 {: .text-center}
 
 Join our announcements email list!
