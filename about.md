@@ -7,7 +7,7 @@ author_profile: true
 author: AHA
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.6"
   overlay_image: /assets/images/prayerwire.jpg
   actions:
     - label: "Visit"

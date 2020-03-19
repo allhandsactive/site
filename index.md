@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.6"
   overlay_image: /assets/images/ahayarn.jpg
   actions:
     - label: "Visit"

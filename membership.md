@@ -4,7 +4,7 @@ layout: splash
 permalink: /membership
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0.6"
   overlay_image: /assets/images/steam-expo-pano.jpg
   actions:
     - label: "Visit"
