@@ -40,7 +40,7 @@ feature_row1:
       within your means? Talk to us!
 ---
 
-# AHA _is_ its members!
+## AHA _is_ its members!
 {: .text-center}
 
 Becoming a member is the best way to support AHA. Our members' skills, passion
@@ -64,7 +64,7 @@ replenish what you use, leave the space cleaner than you found it, and expect
 at least an hour per month of involvement from keeping track of the happenings
 on the mailing list to fixing something that's broken.
 
-# Membership Process
+## Membership Process
 {: .text-center}
 
 
@@ -73,7 +73,7 @@ on the mailing list to fixing something that's broken.
 3. Fill out our [new member form](https://docs.google.com/forms/d/e/1FAIpQLSczPCjGqtUpuOh5KWgoJFVucV1DnnZJRZ3dxJx8YHAvMFWZHw/viewform) online.
 4. (optional) For key-card any-time access to the space, two existing members need to endorse you as safe, trustworthy and having basic literacy about the space.  Print the [24 Hour Access form](https://docs.google.com/document/d/1bOipELN00-Rh_3H5WVhtKzXi6ObmuolSrnBh3vZ3V1o/edit) and bring it in, get to know our members, and gather two signatures.
 
-# Subscribe
+## Subscribe
 {: .text-center}
 
 Stay informed about all things All Hands Active!
