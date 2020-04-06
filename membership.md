@@ -80,7 +80,7 @@ Stay informed about all things All Hands Active!
 {: .text-center}
 
 <div>
-  <input type="text" name="email" id="email" placeholder="joe@example.com" aria-labelledby="searchbutton" style="width: 25%; background-color: #fff; padding:.5em">
-  <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
+  <input type="text" name="email" id="email" placeholder="joe@example.com" aria-labelledby="subscribe-button" style="width: 25%; background-color: #fff; padding:.5em">
+  <button id="subscribe-button" class="btn btn--primary" style="font-size: 1em">Subscribe</button>
 </div>
 {: .text-center}
