@@ -21,7 +21,7 @@ feature_row1:
       <p>AHA! is conveniently located downtown on Liberty Street in the
       basement below the Afternoon Delight Cafe.</p>
       <p>Enter by the double doors between Underground Sound and Nagomi Sushi
-      on Liberty, then head downstairs! We're way in the back.
+      on Liberty, then head downstairs! We're way in the back.</p>
       <p><b>Accessible entrance:</b><br />
       A door at ground level behind the building off the parking lot off N
       5th Ave leads to an elevator.</p>

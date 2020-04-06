@@ -60,7 +60,7 @@ Join our announcements email list!
 {: .text-center}
 
 <div>
-  <input type="text" name="email" id="email" placeholder="jane@example.com" aria-labelledby="searchbutton" style="width: 25%; background-color: #fff; padding:.5em">
-  <button class="btn btn--primary" style="font-size: 1em">Subscribe</button>
+  <input type="text" name="email" id="email" placeholder="jane@example.com" aria-labelledby="subscribe-button" style="width: 25%; background-color: #fff; padding:.5em">
+  <button id="subscribe-button" class="btn btn--primary" style="font-size: 1em">Subscribe</button>
 </div>
 {: .text-center}
