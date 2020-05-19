@@ -31,7 +31,7 @@ feature_row1:
   - title: "Events"
     excerpt: >-
       <p><b>Coronavirus update:</b> Due to COVID-19, most events are suspended until further
-      notice. Certain one-on-one and small group events may still occur. Contact event organizers for details.</p>
+      notice. Virtual events are still being held.</p>
       <p>We host many public events each month including meetups, classes,
       drop-in repair clinics, space improvement days and even the occasional
       party!</p>
