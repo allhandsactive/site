@@ -31,7 +31,7 @@ Ann Arbor, MI 48104
 on the <a href="https://freenode.org">Freenode</a> IRC network
 
 
-## Contact Form
+<!--## Contact Form
 
 Use this form to send us an email
 
@@ -41,4 +41,4 @@ Use this form to send us an email
   <input type="email" name="email" aria-label="email" style="margin-bottom: 1em" placeholder="jane.smith@gmail.com" />
   <textarea cols="46" rows="5" name="comments" aria-label="comments" style="margin-bottom: 1em" placeholder="Send us a message"></textarea>
   <input class="btn btn--primary" type="submit" value="Submit" />
-</form>
+</form>-->
