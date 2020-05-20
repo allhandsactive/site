@@ -32,7 +32,7 @@ feature_row1:
 ![image-left](/assets/images/partsbins-landscape.jpg){: .align-left; style="max-width: 33%; float: left; margin-top: .9em; margin-right: 1em; border-radius: .25em"}
 
 **AHA! is a space to create.** We help with a wide assortment of processes like
-souldering, sewing, laser cutting, software development, 3d printing, CNC
+soldering, sewing, laser cutting, software development, 3d printing, CNC
 routing, app development, carpentry, machining, Arduino and embedded systems
 programming. Our goal is to make technology and fabrication as fun and
 empowering as playing with Legos. We put diverse skills and equipment under one
