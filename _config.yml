@@ -9,7 +9,7 @@ description: >-
   meet-ups, events, and workspace for makers and hackers in the
   A2 and Ypsi area.
 baseurl: ''
-url: 'https://site2.allhandsactive.org'
+url: 'https://www.allhandsactive.org'
 repository: 'allhandsactive/site'
 
 
