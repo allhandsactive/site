@@ -67,11 +67,30 @@ on the mailing list to fixing something that's broken.
 ## Membership Process
 {: .text-center}
 
-
 1. Complete and submit the [liability form](https://drive.google.com/drive/folders/0Bx1lMULI24OBakNmS2dPX2JrQ1U/0B9HAmLuqM06ZY0d2X0dxTDZGbHM/0Bx1lMULI24OBaF9EVnRXeDN5eHc/0B9x4RIcqwUojMTRiQUVSZndfdzg/0B9x4RIcqwUojazRnMkdzNEZ5LTQ/0B9HAmLuqM06ZfnV1NkFxRjFOZ1R5UXNKbVc1VV9FTnZkV0xmNDZxcEdWN1BoSTNPREJFT0U/0B9HAmLuqM06ZfllMS3JWbG02X2hfdHB3WWgyZ1NJWHZDbzJweV94Z1JfY0ZfMmlCVl9QSmM?ltmpl=drive) in person.
 2. Read and understand our [Anti-Harassment Policy](https://drive.google.com/file/d/0B7i6sgB2J1X7dy1TQmFuQWdoN2s/view?usp=sharing).
 3. Fill out our [new member form](https://docs.google.com/forms/d/e/1FAIpQLSczPCjGqtUpuOh5KWgoJFVucV1DnnZJRZ3dxJx8YHAvMFWZHw/viewform) online.
-4. (optional) For key-card any-time access to the space, two existing members need to endorse you as safe, trustworthy and having basic literacy about the space.  Print the [24 Hour Access form](https://docs.google.com/document/d/1bOipELN00-Rh_3H5WVhtKzXi6ObmuolSrnBh3vZ3V1o/edit) and bring it in, get to know our members, and gather two signatures.
+4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
+5. (optional) For key-card any-time access to the space, two existing members need to endorse you as safe, trustworthy and having basic literacy about the space.  Print the [24 Hour Access form](https://docs.google.com/document/d/1bOipELN00-Rh_3H5WVhtKzXi6ObmuolSrnBh3vZ3V1o/edit) and bring it in, get to know our members, and gather two signatures.
+
+## Pay For a Membership via Paypal
+{: .text-center}
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="N94ZNTESCVK62">
+<table>
+<tr><td><input type="hidden" name="on0" value="Membership Options">Membership Options</td></tr><tr><td><select name="os0">
+	<option value="Standard">Standard : $50.00 USD - monthly</option>
+	<option value="Reduced">Reduced : $20.00 USD - monthly</option>
+	<option value="Household add-on">Household add-on : $15.00 USD - monthly</option>
+	<option value="Co-Working">Co-Working : $250.00 USD - monthly</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 
 ## Subscribe
 {: .text-center}
