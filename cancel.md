@@ -1,7 +1,20 @@
 ---
 title: "Payment Canceled"
-layout: single
+layout: splash
 permalink: /cancel
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.6"
+  overlay_image: /assets/images/rf-connectors-landscape.jpg
+  actions:
+    - label: "Email"
+      url: "mailto:info@allhandsactive.org"
+    - label: "Visit"
+      url: "/visit"
+    - label: "Donate"
+      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
+excerpt: "Reach us by email, or visit us in person."
+---
 
 
 # You cancled your payment!
