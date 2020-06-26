@@ -10,6 +10,4 @@ main:
   - title: "Wiki"
     url: https://wiki.allhandsactive.org/Main_Page
   - title: "Contact"
-    url: /contact
-  - title: "Donate"
-    url: /donate    
+    url: /contact 
