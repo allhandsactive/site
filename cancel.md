@@ -1,27 +1,13 @@
 ---
 title: "Payment Canceled"
-layout: splash
+layout: single
 permalink: /cancel
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
-  overlay_image: /assets/images/rf-connectors-landscape.jpg
-  actions:
-    - label: "Email"
-      url: "mailto:info@allhandsactive.org"
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
-excerpt: "Reach us by email, or visit us in person."
+
 ---
 
 
-# You cancled your payment!
-{: .text-center}
-
 ## I Still Want to Take the Class
-All Hands Active is comitted to spreading knowledge. We won't keep anyone from attending a class. But we are sustained by donations! Can you give at least $1?
+All Hands Active is committed to spreading knowledge. We won't keep anyone from attending a class. But we are sustained by donations! Can you give at least $1?
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="69U5NTR452A2L" />
@@ -42,7 +28,7 @@ Sign up for our email list or follow us on social media (at the bottom of the pa
   form{background:#eee;}
 </style>
 <div id="mc_embed_signup">
-  <form action="https://allhandsactive.us4.list-manage.com/subscribe/post?u=0497c04d5751340fb683e3d14&amp;id=5612521156" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://allhandsactive.us4.list-manage.com/subscribe/post?u=0497c04d5751340fb683e3d14&amp;id=5612521156" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
       <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" style="height: 3em;padding: .5em 1em;font-size: 1.2em;font-weight: bold;" required>
       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -50,4 +36,7 @@ Sign up for our email list or follow us on social media (at the bottom of the pa
       <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background:#0092CA; color:#fff; padding: 0.5em 1em; height: 3em; font-size: 1.2em; font-weight:bold;"></div>
     </div>
   </form>
-  
+</div>
+
+### Find another class
+Check our [calendar](https://www.meetup.com/AllHandsActive/events/) right now. Or contact us at <board@allhandsactive.org> and let us know what you want to learn.
