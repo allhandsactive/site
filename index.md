@@ -17,7 +17,7 @@ intro:
     excerpt: "**PLEASE NOTE:** AHA! has discontinued public events in
       efforts to contain the coronavirus. **Public Hours are suspended
       until further notice.** Classes are being held virtually. Member
-      access is permitted, but members are encouraged to follow all
+      access is permitted by [reservation](/reservations) only. Members must follow all
       CDC and state guidelines and not congregate. As always, leave
       the space cleaner than you found it, now including disinfecting
       surfaces using the supplies available."
