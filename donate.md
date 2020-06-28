@@ -26,10 +26,19 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 
 ## About All Hands Active
 AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
-![All Hands Active Members](/assets/images/AHA members.jpeg)
+
+![All Hands Active Members](/assets/images/AHA Members.jpeg)
+
 We offer tools, space and expertise to the public for free or low cost. We make our laser cutter, 3d printers, power tools and hand tools accessible through skill-building workshops, at events like Penguicon and the Ann Arbor Creativity & Making Expo, and weekly drop-in public hours.
+
 ![Happy AHA member with laser engraved coffee travel mug](/assets/images/Laughing with mug.jpeg)
+
 Free sharing of knowledge and tools makes good things happen---like beautiful floor tiles, custom lab equipment, or saving a Nintendo Gamecube from the landfill. Our resources support individual artists, hobbyists and researchers as well as labs, small businesses and startups. Our organization fosters a community of makers who share knowledge and help.
+
 ![Non-repeating tessellation project](/assets/images/tesselate.jpeg)
+
 AHA has been a special resource for many people, in ways seen and unseen. But we need your help to continue serving the community, and to expand and do even more for the community. Your contribution will help keep us available for the public to use, and help make the space awesome! Every contribution counts, every donation makes a difference, and all help is appreciated.
+
 ![Member in front of laser cutter](/assets/images/laser cutting.jpeg)
+
+If you'd like to see us in action, check out our [events](https://www.meetup.com/AllHandsActive/events/) page for an upcoming class, or drop in during [public hours](/visit). Please help us spread the word, and share this on social media!
