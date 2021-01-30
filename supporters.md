@@ -16,8 +16,10 @@ header:
 excerpt: "These companies and individuals help keep our lights on."
 ---
 
-All Hands Active recognizes these companies and individuals, whose financial and
-in-kind support sustains the organization and furthers our mission of XXXX.
+All Hands Active is deeply grateful to these companies and individuals,
+whose financial and in-kind support sustains the organization and furthers
+our mission of XXXX.  To keep supporting the community, we depend on community
+support.
 
 If you'd like to join this list, click "Donate" above or "Email" to discuss further.
 
