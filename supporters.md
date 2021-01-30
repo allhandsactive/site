@@ -1,4 +1,4 @@
-
+---
 title: "Supporters"
 layout: splash
 permalink: /supporters
