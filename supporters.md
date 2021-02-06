@@ -6,20 +6,13 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.6"
   overlay_image: /assets/images/donationbox.jpg
-  actions:
-    - label: "Email"
-      url: "mailto:info@allhandsactive.org"
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "/donate"
 excerpt: "These companies and individuals help keep our lights on."
 ---
 
 All Hands Active is deeply grateful to these companies and individuals,
 whose financial and in-kind support sustains the organization and furthers
-our mission of XXXX.  To keep supporting the community, we depend on community
-support.
+our mission of arts and science education and access to shared tools.
+To keep supporting the community, we depend on community support.
 
 If you'd like to join this list, click "Donate" above or "Email" to discuss further.
 
@@ -29,6 +22,7 @@ If you'd like to join this list, click "Donate" above or "Email" to discuss furt
 ![Digital Ocean Logo](/assets/images/DO_Logo_Horizontal_Blue.png)
 
 ### Secratic
+![Secratic Logo](/assets/images/secratic.png)
 
 
 ## Individual Donors
