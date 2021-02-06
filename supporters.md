@@ -18,10 +18,7 @@ If you'd like to join this list, click "Donate" above or "Email" to discuss furt
 
 ## Corporate Sponsors
 
-### Digital Ocean
 ![Digital Ocean Logo](/assets/images/DO_Logo_Horizontal_Blue.png)
-
-### Secratic
 ![Secratic Logo](/assets/images/secratic.png)
 
 
