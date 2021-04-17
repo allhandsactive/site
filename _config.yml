@@ -24,7 +24,7 @@ github_username:  allhandsactive
 kramdown:
   input: GFM
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE']
-include: ["_pages"]
+include: ["_pages", ".well-known"]
 permalink: pretty
 
 
