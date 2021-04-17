@@ -36,7 +36,7 @@ soldering, sewing, laser cutting, software development, 3d printing, CNC
 routing, app development, carpentry, machining, Arduino and embedded systems
 programming. Our goal is to make technology and fabrication as fun and
 empowering as playing with Legos. We put diverse skills and equipment under one
-roof to accomodate the unanticipated needs of creative and innovative projects.
+roof to accommodate the unanticipated needs of creative and innovative projects.
 
 We believe that **if you can't fix it, you don't own it**. At AHA! you can take
 apart the things you take for granted: learn how they work and how to adapt
