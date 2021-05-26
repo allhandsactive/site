@@ -32,7 +32,7 @@ https://chat.allhandsactive.org/
 ## Internet Relay Chat
 
 \#allhandsactive<br />
-on the <a href="https://freenode.org">Freenode</a> IRC network
+on the <a href="https://tilde.chat/">tilde.chat</a> IRC network
 
 
 <!--## Contact Form
