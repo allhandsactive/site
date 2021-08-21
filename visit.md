@@ -27,8 +27,8 @@ feature_row1:
       5th Ave leads to an elevator.</p>
   - title: "Public Hours"
     excerpt: >-
-      Thursday 6-8 PM Repairsday
-      Saturday 2-6 PM Open Hours
+      **Thursday 6-8 PM** Repairsday
+      **Saturday 2-6 PM** Open Hours
   - title: "Events"
     excerpt: >-
       <p><b>Coronavirus update:</b> Due to COVID-19, we are offering a mix of virtual and in-person events.</p>
