@@ -14,10 +14,10 @@ header:
 excerpt: "Join the community!"
 
 feature_row1:
-  - title: "Supporting <br /> $150 or more / month"
+  - title: "Supporting <br /> $125 or more / month"
     excerpt: >-
       Supporting members contribute financial resources we need to survive
-      and thrive.
+      and thrive. They are listed on our [Supporters](/supporters) page with their name or a logo of their choice.
   - title: "Volunteer<br />$0 + 20hr / month"
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
