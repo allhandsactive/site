@@ -18,7 +18,7 @@ feature_row1:
     excerpt: >-
       Supporting members contribute financial resources we need to survive
       and thrive.
-  - title: "Volunteer<br />20hr / month"
+  - title: "Volunteer<br />$0 + 20hr / month"
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
       as hosting public hours, teaching classes, or board service.
@@ -26,10 +26,9 @@ feature_row1:
     excerpt: >-
       Standard membership includes all the benefits of membership at a rate
       we hope most can afford.
-  - title: "Student<br />$20 + 5hr / month"
+  - title: "Reduced Rate<br />$20 + 5hr / month"
     excerpt: >-
-      Students (with ID) are eligible for reduced contribution as engaged
-      learners and the future of AHA!
+      Reduced Rate members contribute their time while still financially supporting AHA!
   - title: "Household<br />$15 / +1 / month"
     excerpt: >-
       Any membership may be extended to people in the same household for an
