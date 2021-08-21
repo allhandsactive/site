@@ -71,7 +71,7 @@ on the mailing list to fixing something that's broken.
 2. Read and understand our [Anti-Harassment Policy](https://drive.google.com/file/d/0B7i6sgB2J1X7dy1TQmFuQWdoN2s/view?usp=sharing).
 3. Fill out our [new member form](https://docs.google.com/forms/d/e/1FAIpQLSczPCjGqtUpuOh5KWgoJFVucV1DnnZJRZ3dxJx8YHAvMFWZHw/viewform) online.
 4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
-5. (optional) For key-card any-time access to the space, two existing members need to endorse you as safe, trustworthy and having basic literacy about the space.  Print the [24 Hour Access form](https://docs.google.com/document/d/1bOipELN00-Rh_3H5WVhtKzXi6ObmuolSrnBh3vZ3V1o/edit) and bring it in, get to know our members, and gather two signatures.
+5. (optional) For key-card any-time access to the space, complete your first month's membership and then contact [board@allhandsactive.org](mailto:board@allhandsactive.org) or use the operations channel on [Matrix](chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
 
 ## Pay For a Membership via Paypal
 {: .text-center}
