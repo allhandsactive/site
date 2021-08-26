@@ -16,7 +16,7 @@ intro:
   - title: "COVID-19 status:"
     excerpt: "AHA! continues to adapt policies concerning coronavirus:<br />
       **In-person public events** are taking place. Capacity is limited and masks are required.<br />
-      **Public Hours** are currently 2-6 PM on Saturdays.<br />
+      **Public Hours** are currently 6-8 PM on Thursdays and 2-6 PM on Saturdays.<br />
       **Classes** [are being held](https://www.meetup.com/AllHandsActive/events/) with a mix of virtual and in-person events.<br />
       **Member access** no longer requres a reservation."
 
