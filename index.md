@@ -13,16 +13,12 @@ header:
 excerpt: "Ann Arbor's all-volunteer non-profit community makerspace."
 
 intro:
-  - title: "COVID-19 Update:"
-    excerpt: "**PLEASE NOTE:** AHA! has discontinued public events in
-      efforts to contain the coronavirus. **Public Hours are suspended
-      until further notice.** Classes are being held virtually. Member
-      access is permitted by [reservation](/reservations) only. Members must follow all
-      CDC and state guidelines and not congregate. As always, leave
-      the space cleaner than you found it, now including disinfecting
-      surfaces using the supplies available."
-
-
+  - title: "COVID-19 status:"
+    excerpt: "AHA! continues to adapt policies concerning coronavirus:<br />
+      **In-person public events** are taking place. Capacity is limited and masks are required.<br />
+      **Public Hours** are currently 6-8 PM on Thursdays and 2-6 PM on Saturdays.  These are subject to change, so please use our [Meetup page](https://www.meetup.com/AllHandsActive/events/) to verify the latest.<br />
+      **Classes** [are being held](https://www.meetup.com/AllHandsActive/events/) with a mix of virtual and in-person events.<br />
+      **Member access** no longer requres a reservation."
 
 feature_row1:
   - title: "What is a makerspace?"

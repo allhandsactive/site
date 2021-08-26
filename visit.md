@@ -27,11 +27,12 @@ feature_row1:
       5th Ave leads to an elevator.</p>
   - title: "Public Hours"
     excerpt: >-
-      Due to COVID-19, public hours are suspended until further notice.
+      **Thursday 6-8 PM** Repairsday <br />
+      **Saturday 2-6 PM** Open Hours <br />
+      These are subject to change -- the latest public hours are always on our <a href="https://www.meetup.com/AllHandsActive/events/">meetup.com page</a>
   - title: "Events"
     excerpt: >-
-      <p><b>Coronavirus update:</b> Due to COVID-19, most events are suspended until further
-      notice. Virtual events are still being held.</p>
+      <p><b>Coronavirus update:</b> Due to COVID-19, we are offering a mix of virtual and in-person events.</p>
       <p>We host many public events each month including meetups, classes,
       drop-in repair clinics, space improvement days and even the occasional
       party!</p>

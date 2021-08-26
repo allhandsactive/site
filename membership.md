@@ -14,11 +14,11 @@ header:
 excerpt: "Join the community!"
 
 feature_row1:
-  - title: "Supporting <br /> $150 or more / month"
+  - title: "Supporting <br /> $125 or more / month"
     excerpt: >-
       Supporting members contribute financial resources we need to survive
-      and thrive.
-  - title: "Volunteer<br />20hr / month"
+      and thrive. They are listed on our [Supporters](/supporters) page with their name or a logo of their choice.
+  - title: "Volunteer<br />$0 + 20hr / month"
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
       as hosting public hours, teaching classes, or board service.
@@ -26,10 +26,9 @@ feature_row1:
     excerpt: >-
       Standard membership includes all the benefits of membership at a rate
       we hope most can afford.
-  - title: "Student<br />$20 + 5hr / month"
+  - title: "Reduced Rate<br />$20 + 5hr / month"
     excerpt: >-
-      Students (with ID) are eligible for reduced contribution as engaged
-      learners and the future of AHA!
+      Reduced Rate members contribute their time while still financially supporting AHA!
   - title: "Household<br />$15 / +1 / month"
     excerpt: >-
       Any membership may be extended to people in the same household for an
@@ -71,7 +70,7 @@ on the mailing list to fixing something that's broken.
 2. Read and understand our [Anti-Harassment Policy](https://drive.google.com/file/d/0B7i6sgB2J1X7dy1TQmFuQWdoN2s/view?usp=sharing).
 3. Fill out our [new member form](https://docs.google.com/forms/d/e/1FAIpQLSczPCjGqtUpuOh5KWgoJFVucV1DnnZJRZ3dxJx8YHAvMFWZHw/viewform) online.
 4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
-5. (optional) For key-card any-time access to the space, two existing members need to endorse you as safe, trustworthy and having basic literacy about the space.  Print the [24 Hour Access form](https://docs.google.com/document/d/1bOipELN00-Rh_3H5WVhtKzXi6ObmuolSrnBh3vZ3V1o/edit) and bring it in, get to know our members, and gather two signatures.
+5. (optional) For key-card any-time access to the space, complete your first month's volunteer hours and then contact [board@allhandsactive.org](mailto:board@allhandsactive.org) or use the operations channel on [Matrix](chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
 
 ## Pay For a Membership via Paypal
 {: .text-center}
