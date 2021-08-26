@@ -27,7 +27,7 @@ intro:
 feature_row1:
   - title: "What is a makerspace?"
     image_path: assets/images/mural-landscape.jpg
-    alt: "Hands painted in the shape of a heart"
+    alt: "AHA mural with keyboard, star, needle, wrench and soldering iron"
     excerpt: "All Hands Active (AHA!) is a place to <b><i>learn by doing</i></b> with a
       welcoming and supportive <b><i>community</i></b>. AHA! is Ann Arbor's original
       hackerspace and makerspace."
