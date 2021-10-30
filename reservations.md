@@ -18,7 +18,7 @@ excerpt: "Reservations are no longer required before visiting All Hands Active."
 ---
 
 ## How to Use The Space
-<p>All Hands Active is currently open to members at any time. Non-members may come to open hours listed in our [events calendar](https://www.meetup.com/AllHandsActive/events/) or contact <a
+<p>All Hands Active is currently open to members at any time. Non-members may come to open hours listed in our <a href="https://www.meetup.com/AllHandsActive/events/">events calendar</a> or contact <a
 href="mailto:board@allhandsactive.org">board@allhandsactive.org</a> to schedule
 a visit.</p> 
 <!---
