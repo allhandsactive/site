@@ -25,7 +25,7 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 </form>
 
 ## Add to our wishlist
-Additionally, we have a wish-list that can be found <a href="https://docs.google.com/spreadsheets/d/11-hJSy9P6lK2bZz6fs8hZr2WjJZGcyNai22qJ6eJq8k/edit#gid=2110100171">wish-list</a>, and additional items can be submitted <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGz1hoymTJDEhyTOof_Smwutxoh1JhQ7nkZ8P_UcQWpAOrxg/viewform">submit-to-wishlist</a>.
+Additionally, we have a wish-list that can be found at [wish-list]("https://docs.google.com/spreadsheets/d/11-hJSy9P6lK2bZz6fs8hZr2WjJZGcyNai22qJ6eJq8k/edit#gid=2110100171"), and additional items can be submitted at [submit-to-wishlist]("https://docs.google.com/forms/d/e/1FAIpQLSeGz1hoymTJDEhyTOof_Smwutxoh1JhQ7nkZ8P_UcQWpAOrxg/viewform").
 
 ## About All Hands Active
 AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
