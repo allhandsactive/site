@@ -24,6 +24,8 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+We also have a [patreon](https://www.patreon.com/AllHandsActive) - please consider supporting us there!
+
 ## About All Hands Active
 AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
 
