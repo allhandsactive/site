@@ -24,6 +24,8 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+We also have a [Patreon](https://www.patreon.com/AllHandsActive) - please consider supporting us there!
+
 ## All Hands Active wishlist
 We have a [wishlist](https://docs.google.com/spreadsheets/d/11-hJSy9P6lK2bZz6fs8hZr2WjJZGcyNai22qJ6eJq8k/edit#gid=2110100171) that we would greatly appreciate donations from, and if you think the space is missing something, [submit a new item to the wishlist](https://docs.google.com/forms/d/e/1FAIpQLSeGz1hoymTJDEhyTOof_Smwutxoh1JhQ7nkZ8P_UcQWpAOrxg/viewform).
 
