@@ -26,6 +26,9 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 
 We also have a [Patreon](https://www.patreon.com/AllHandsActive) - please consider supporting us there!
 
+## All Hands Active wishlist
+We have a [wishlist](https://docs.google.com/spreadsheets/d/11-hJSy9P6lK2bZz6fs8hZr2WjJZGcyNai22qJ6eJq8k/edit#gid=2110100171) that we would greatly appreciate donations from, and if you think the space is missing something, [submit a new item to the wishlist](https://docs.google.com/forms/d/e/1FAIpQLSeGz1hoymTJDEhyTOof_Smwutxoh1JhQ7nkZ8P_UcQWpAOrxg/viewform).
+
 ## About All Hands Active
 AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
 
