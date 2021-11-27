@@ -74,22 +74,8 @@ on the mailing list to fixing something that's broken.
 
 ## Pay For a Membership via Paypal
 {: .text-center}
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="N94ZNTESCVK62">
-<table>
-<tr><td><input type="hidden" name="on0" value="Membership Options">Membership Options</td></tr><tr><td><select name="os0">
-	<option value="Standard">Standard : $50.00 USD - monthly</option>
-	<option value="Reduced">Reduced : $20.00 USD - monthly</option>
-	<option value="Household add-on">Household add-on : $15.00 USD - monthly</option>
-	<option value="Co-Working">Co-Working : $250.00 USD - monthly</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
 
+{% include paypal-membership.html %}
 
 ## Subscribe
 {: .text-center}
@@ -97,19 +83,4 @@ on the mailing list to fixing something that's broken.
 Stay informed about all things All Hands Active!
 {: .text-center}
 
-<!-- Begin Mailchimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#eee; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-  form{background:#eee;}
-</style>
-<div id="mc_embed_signup">
-  <form action="https://allhandsactive.us4.list-manage.com/subscribe/post?u=0497c04d5751340fb683e3d14&amp;id=5612521156" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" style="height: 3em;padding: .5em 1em;font-size: 1.2em;font-weight: bold;" required>
-      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0497c04d5751340fb683e3d14_5612521156" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background:#0092CA; color:#fff; padding: 0.5em 1em; height: 3em; font-size: 1.2em; font-weight:bold;"></div>
-    </div>
-  </form>
-</div>
+{% include mailchimp-form.html %}
