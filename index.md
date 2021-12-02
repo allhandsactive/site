@@ -72,3 +72,6 @@ Join our announcements email list!
   </form>
 </div>
 
+## Search
+{: .text-center}
+{% include google-search.html %}
