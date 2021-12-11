@@ -15,6 +15,15 @@ header:
 excerpt: "Reach us by email, or visit us in person."
 ---
 
+## End of the year fundrasier for 2021!
+
+It's time for AHA's annual end of the year fundraiser, and we've got two matching periods where you can double your donation!
+
+* From December 1-15: The first $1000 donated will be matched.
+* From December 16-31: The first $1000 donated will be matched.
+
+Please head over to our [2021 Go Fund Me](https://www.gofundme.com/f/AHA-2021) to donate!
+
 ## Donate to All Hand Active
 All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
