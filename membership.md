@@ -82,7 +82,7 @@ on the mailing list to fixing something that's broken.
 	<option value="Standard">Standard : $50.00 USD - monthly</option>
 	<option value="Reduced">Reduced : $20.00 USD - monthly</option>
 	<option value="Household add-on">Household add-on : $15.00 USD - monthly</option>
-	<option value="Co-Working">Co-Working : $250.00 USD - monthly</option>
+	<option value="Supporting">Supporting : $125.00 USD - monthly</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
