@@ -66,11 +66,11 @@ on the mailing list to fixing something that's broken.
 ## Membership Process
 {: .text-center}
 
-1. Complete and submit the [liability form](https://drive.google.com/drive/folders/0B9HAmLuqM06ZfllMS3JWbG02X2hfdHB3WWgyZ1NJWHZDbzJweV94Z1JfY0ZfMmlCVl9QSmM?resourcekey=0-Au0K248hkyvXg3tlb06Mdw&usp=sharing) in person.
-2. Read and understand our [Anti-Harassment Policy](https://drive.google.com/file/d/0B7i6sgB2J1X7dy1TQmFuQWdoN2s/view?usp=sharing&resourcekey=0-U2Q1n0izXp3o06EqxMoffw).
-3. Fill out our [new member form](https://docs.google.com/forms/d/e/1FAIpQLSczPCjGqtUpuOh5KWgoJFVucV1DnnZJRZ3dxJx8YHAvMFWZHw/viewform) online.
+1. Complete and submit the [liability form](https://rhino.li/liability-waiver-form) in person.
+2. Read and understand our [Anti-Harassment Policy](https://rhino.li/anti-harassment-policy).
+3. Fill out our [new member form](https://rhino.li/membership-application) online.
 4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
-5. (optional) For key-card any-time access to the space, complete your first month's volunteer hours and then contact [board@allhandsactive.org](mailto:board@allhandsactive.org) or use the operations channel on [Matrix](chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
+5. (optional) For key-card any-time access to the space, complete your first month's volunteer hours and then contact [board@allhandsactive.org](mailto:board@allhandsactive.org) or use the operations channel on [Matrix](https://chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
 
 ## Pay For a Membership via Paypal
 {: .text-center}
