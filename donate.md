@@ -16,7 +16,14 @@ excerpt: "Reach us by email, or visit us in person."
 ---
 
 ## Donate to All Hand Active
-All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. 
+All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. There are several ways you can help us out:
+
+### Holiday Fundraiser on GoFundMe
+Our annual holiday fundraiser is in full swing -- please help us meet our goals! Matching donors have stepped up to double your donated dollars for this fundraiser, so this is one of the best ways to support All Hands Active in the giving season with a tax-deductable donation! Check it out here: [All Hands Active 2022 Holiday Fundraiser](https://rhino.li/holiday-fundraiser)
+
+### PayPal
+Use the button below to make a one-time or recurring donation!
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="KEQF3RMU5RPG4" />
@@ -24,7 +31,11 @@ All Hands Active depends on your generosity. Any donation helps, but we are espe
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+### Patreon
 We also have a [Patreon](https://www.patreon.com/AllHandsActive) - please consider supporting us there!
+
+### Donation box/tip jar, in person
+If you find your visit to AHA insightful or useful, or you'd like to offset the cost of tool maintenance or materials, please consider dropping a few dollars in our tip jar while you're visiting! There is also a locked grey donation box on the pillar to the right of the entrance for larger contributions.
 
 ## All Hands Active wishlist
 We have a [wishlist](https://rhino.li/wish-list) that we would greatly appreciate donations from, and if you think the space is missing something, [submit a new item to the wishlist](https://rhino.li/wish-list-addition).
