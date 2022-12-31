@@ -18,15 +18,15 @@ feature_row1:
     excerpt: >-
       Supporting members contribute financial resources we need to survive
       and thrive. They are listed on our [Supporters](/supporters) page with their name or a logo of their choice.
-  - title: "Volunteer<br />$0 + 20hr / month"
+  - title: "Volunteer<br />$0 + 10hr / month"
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
       as hosting public hours, teaching classes, or board service.
-  - title: "Standard<br />$50 + 1hr / month"
+  - title: "Standard<br />$65 + 1hr / month"
     excerpt: >-
       Standard membership includes all the benefits of membership at a rate
       we hope most can afford.
-  - title: "Reduced Rate<br />$20 + 5hr / month"
+  - title: "Reduced Rate<br />$25 + 5hr / month"
     excerpt: >-
       Reduced Rate members contribute their time while still financially supporting AHA!
   - title: "Household<br />$15 / +1 / month"
@@ -79,8 +79,8 @@ on the mailing list to fixing something that's broken.
 <input type="hidden" name="hosted_button_id" value="N94ZNTESCVK62">
 <table>
 <tr><td><input type="hidden" name="on0" value="Membership Options">Membership Options</td></tr><tr><td><select name="os0">
-	<option value="Standard">Standard : $50.00 USD - monthly</option>
-	<option value="Reduced">Reduced : $20.00 USD - monthly</option>
+	<option value="Standard">Standard : $65.00 USD - monthly</option>
+	<option value="Reduced">Reduced : $25.00 USD - monthly</option>
 	<option value="Household add-on">Household add-on : $15.00 USD - monthly</option>
 	<option value="Supporting">Supporting : $125.00 USD - monthly</option>
 </select> </td></tr>
@@ -89,7 +89,6 @@ on the mailing list to fixing something that's broken.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-
 
 ## Subscribe
 {: .text-center}
