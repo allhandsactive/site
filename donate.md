@@ -18,9 +18,6 @@ excerpt: "Reach us by email, or visit us in person."
 ## Donate to All Hand Active
 All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. There are several ways you can help us out:
 
-### Holiday Fundraiser on GoFundMe
-Our annual holiday fundraiser is in full swing -- please help us meet our goals! Matching donors have stepped up to double your donated dollars for this fundraiser, so this is one of the best ways to support All Hands Active in the giving season with a tax-deductable donation! Check it out here: [All Hands Active 2022 Holiday Fundraiser](https://rhino.li/holiday-fundraiser)
-
 ### PayPal
 Use the button below to make a one-time or recurring donation!
 
