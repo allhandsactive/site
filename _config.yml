@@ -23,7 +23,7 @@ github_username:  allhandsactive
 # Build settings
 kramdown:
   input: GFM
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE', 'jekyll-remote-theme-*']
 include: ["_pages", ".well-known"]
 permalink: pretty
 
