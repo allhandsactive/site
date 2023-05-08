@@ -10,6 +10,6 @@ group :jekyll_plugins do
 end
 
 # testing
-gem "html-proofer", "< 5"
+gem "html-proofer", "< 6"
 gem "w3c_validators"
 gem "dotenv"
