@@ -64,3 +64,6 @@ timezone: America/Detroit
 
 # simulate github pages
 safe: true
+
+# add key-value pair to pull GitHub Metadata
+github: [metadata]
