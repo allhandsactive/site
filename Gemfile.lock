@@ -313,6 +313,7 @@ GEM
       json (>= 1.8)
       nokogiri (~> 1.6)
       rexml (~> 3.2)
+    webrick (1.8.1)
     yell (2.2.2)
     zeitwerk (2.6.12)
 
@@ -332,6 +333,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-include-cache
   w3c_validators
+  webrick
 
 RUBY VERSION
    ruby 3.2.2p53
