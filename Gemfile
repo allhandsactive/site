@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-ruby "2.7.5"
+ruby "3.2.2"
 
 group :jekyll_plugins do
   gem "github-pages"
@@ -10,6 +10,6 @@ group :jekyll_plugins do
 end
 
 # testing
-gem "html-proofer", "< 5"
+gem "html-proofer"
 gem "w3c_validators"
 gem "dotenv"

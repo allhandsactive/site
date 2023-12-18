@@ -6,7 +6,3 @@ updates:
     interval: daily
     time: "10:00"
   open-pull-requests-limit: 10
-  ignore:
-  - dependency-name: html-proofer
-    versions:
-    - 3.18.6
