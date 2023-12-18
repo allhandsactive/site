@@ -11,7 +11,7 @@ description: >-
 baseurl: ''
 url: 'https://allhandsactive.org'
 repository: 'allhandsactive/site'
-
+encoding: utf-8
 
 # Social media variables
 twitter_username: AllHandsActive
