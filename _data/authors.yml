@@ -14,7 +14,7 @@ AHA:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/allhandsactivea2/"
     - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
+      icon: "fab fa-mastodon"
       url: "https://a2mi.social/@aha"
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
