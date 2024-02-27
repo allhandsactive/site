@@ -35,7 +35,7 @@ GEM
       fiber-local
     dnsruby (1.70.0)
       simpleidn (~> 0.2.1)
-    dotenv (2.8.1)
+    dotenv (3.0.3)
     drb (2.2.0)
       ruby2_keywords
     em-websocket (0.5.3)
