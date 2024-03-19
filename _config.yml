@@ -17,7 +17,7 @@ twitter_username: AllHandsActive
 facebook_username: AHA-All-Hands-Active-300100514925
 meetup_username: allhandsactive
 github_username:  allhandsactive
-
+mastodon_username: aha@a2mi.social
 
 # Build settings
 kramdown:
@@ -49,6 +49,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github-square"
       url: "https://github.com/allhandsactive/"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://a2mi.social/@aha"
 
 
 # Plugins
