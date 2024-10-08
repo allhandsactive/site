@@ -27,7 +27,7 @@ Ann Arbor, MI 48104
 
 ## Public Chat (Matrix)
 
-[https://chat.allhandsactive.org/]()
+<https://chat.allhandsactive.org/>
 
 ## Internet Relay Chat
 
