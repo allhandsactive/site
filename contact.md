@@ -25,9 +25,9 @@ info@allhandsactive.org
 255 E. Liberty St. Suite 225<br/>
 Ann Arbor, MI 48104
 
-## Public Chat (Matrix)
+## Public Chat
 
-[https://chat.allhandsactive.org/]()
+https://chat.allhandsactive.org/
 
 ## Internet Relay Chat
 
