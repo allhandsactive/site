@@ -37,7 +37,7 @@ GEM
     csv (3.3.0)
     dnsruby (1.72.2)
       simpleidn (~> 0.2.1)
-    dotenv (3.1.4)
+    dotenv (3.1.6)
     drb (2.2.1)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
