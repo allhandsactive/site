@@ -42,7 +42,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/allhandsactivea2/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram-square"
+      icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/allhandsactivea2/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
