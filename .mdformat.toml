@@ -1,0 +1,4 @@
+wrap = 60         # options: {"keep", "no", INTEGER}
+number = false        # options: {false, true}
+end_of_line = "lf"    # options: {"lf", "crlf", "keep"}
+validate = true       # options: {false, true}

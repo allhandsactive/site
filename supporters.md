@@ -1,18 +1,18 @@
 ---
-title: "Supporters"
+title: Supporters
 layout: splash
 permalink: /supporters
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/donationbox.jpg
-excerpt: "These companies and individuals help keep our lights on."
+excerpt: These companies and individuals help keep our lights on.
 ---
 
-All Hands Active is deeply grateful to these companies and individuals,
-whose financial and in-kind support sustains the organization and furthers
-our mission of arts and science education and access to shared tools.
-To keep supporting the community, we depend on community support.
+All Hands Active is deeply grateful to these companies and individuals, whose financial
+and in-kind support sustains the organization and furthers our mission of arts and
+science education and access to shared tools. To keep supporting the community, we
+depend on community support.
 
 If you'd like to join this list, click "Donate" above or "Email" to discuss further.
 
@@ -21,7 +21,6 @@ If you'd like to join this list, click "Donate" above or "Email" to discuss furt
 [![Digital Ocean Logo](/assets/images/DO_Logo_Horizontal_Blue.png)](https://www.digitalocean.com/)
 
 [![Secratic Logo](/assets/images/secratic.png)](https://secratic.com/)
-
 
 ## Individual Donors
 

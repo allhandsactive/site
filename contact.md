@@ -1,19 +1,19 @@
 ---
-title: "Contact Us"
+title: Contact Us
 layout: splash
 permalink: /contact
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/rf-connectors-landscape.jpg
   actions:
-    - label: "Email"
-      url: "mailto:info@allhandsactive.org"
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "/donate"
-excerpt: "Reach us by email, or visit us in person."
+    - label: Email
+      url: mailto:info@allhandsactive.org
+    - label: Visit
+      url: /visit
+    - label: Donate
+      url: /donate
+excerpt: Reach us by email, or visit us in person.
 ---
 
 ## Email
@@ -31,9 +31,8 @@ Ann Arbor, MI 48104
 
 ## Internet Relay Chat
 
-\#allhandsactive\
+#allhandsactive\
 on the [tilde.chat](https://tilde.chat/) IRC network
-
 
 <!--## Contact Form
 

@@ -1,39 +1,39 @@
 ---
-title: "Membership"
+title: Membership
 layout: splash
 permalink: /membership
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/steam-expo-pano.jpg
   actions:
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "/donate"
-excerpt: "Join the community!"
+    - label: Visit
+      url: /visit
+    - label: Donate
+      url: /donate
+excerpt: Join the community!
 
 feature_row1:
-  - title: "Supporting <br /> $125 or more / month"
+  - title: Supporting <br /> $125 or more / month
     excerpt: >-
       Supporting members contribute financial resources we need to survive
       and thrive. They are listed on our [Supporters](/supporters) page with their name or a logo of their choice.
-  - title: "Volunteer<br />$0 + 10hr / month"
+  - title: Volunteer<br />$0 + 10hr / month
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
       as hosting public hours, teaching classes, or board service.
-  - title: "Standard<br />$65 + 1hr / month"
+  - title: Standard<br />$65 + 1hr / month
     excerpt: >-
       Standard membership includes all the benefits of membership at a rate
       we hope most can afford.
-  - title: "Reduced Rate<br />$25 + 5hr / month"
+  - title: Reduced Rate<br />$25 + 5hr / month
     excerpt: >-
       Reduced Rate members contribute their time while still financially supporting AHA!
-  - title: "Household<br />$15 / +1 / month"
+  - title: Household<br />$15 / +1 / month
     excerpt: >-
       Any membership may be extended to people in the same household for an
       additional $15 per person per month.
-  - title: "Community<br />(flexible)"
+  - title: Community<br />(flexible)
     excerpt: >-
       Have something to contribute to AHA but none of these is right for you or
       within your means? Talk to us!
@@ -42,35 +42,41 @@ feature_row1:
 ## AHA _is_ its members!
 {: .text-center}
 
-Becoming a member is the best way to support AHA. Our members' skills, passion
-and desire to share knowledge are what make AHA!  great. Members also gain
-access to low- and high-tech tools and equipment most people wouldn't likely
-have at home (CNC/Laser Cutter/3D Printer/Vinyl Cutter).
-{: .text-justify}
+Becoming a member is the best way to support AHA. Our members' skills, passion and
+desire to share knowledge are what make AHA! great. Members also gain access to low- and
+high-tech tools and equipment most people wouldn't likely have at home (CNC/Laser
+Cutter/3D Printer/Vinyl Cutter). {: .text-justify}
 
 We offer many **membership options** to suit your means and style.
 {: .text-center}
 
 {% include feature_row id="feature_row1" %}
 
-All members are eligible for an any-time access badge for the space and are
-eligible to vote and run in board elections. Members can also take all tool
-training class for $20 with free refreshers and have access to temporary
-storage lockers.  Members also get access to a members email list.
+All members are eligible for an any-time access badge for the space and are eligible to
+vote and run in board elections. Members can also take all tool training class for $20
+with free refreshers and have access to temporary storage lockers. Members also get
+access to a members email list.
 
-All members are expected to contribute to the basic maintenance of the space:
-replenish what you use, leave the space cleaner than you found it, and expect
-at least an hour per month of involvement from keeping track of the happenings
-on the mailing list to fixing something that's broken.
+All members are expected to contribute to the basic maintenance of the space: replenish
+what you use, leave the space cleaner than you found it, and expect at least an hour per
+month of involvement from keeping track of the happenings on the mailing list to fixing
+something that's broken.
 
 ## Membership Process
 {: .text-center}
 
-1. Complete and submit the [liability form](https://rhino.li/liability-waiver-form) in person.
-2. Read and understand our [Anti-Harassment Policy](https://rhino.li/anti-harassment-policy).
-3. Fill out our [new member form](https://rhino.li/membership-application) online.
-4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
-5. (optional) For key-card any-time access to the space, complete your first month's volunteer hours and then contact <board@allhandsactive.org> or use the operations channel on [Matrix](https://chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
+1. Complete and submit the [liability form](https://rhino.li/liability-waiver-form) in
+   person.
+1. Read and understand our
+   [Anti-Harassment Policy](https://rhino.li/anti-harassment-policy).
+1. Fill out our [new member form](https://rhino.li/membership-application) online.
+1. Make arrangements for payment. Paying via PayPal (see below) is a great option, but
+   you may also pay via cash or check. Contact board@allhandsactive.org to arrange
+   anything other than paypal.
+1. (optional) For key-card any-time access to the space, complete your first month's
+   volunteer hours and then contact <board@allhandsactive.org> or use the operations
+   channel on [Matrix](https://chat.allhandsactive.org). Matrix is also a great place to
+   find volunteer opportunities.
 
 ## Pay For a Membership via Paypal
 {: .text-center}
