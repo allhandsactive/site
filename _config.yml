@@ -12,14 +12,6 @@ baseurl: ''
 url: 'https://allhandsactive.org'
 repository: 'allhandsactive/site'
 
-# Social media variables
-twitter_username: AllHandsActive
-facebook_username: AHA-All-Hands-Active-300100514925
-meetup_username: allhandsactive
-github_username:  allhandsactive
-mastodon_username: aha@a2mi.social
-instagram_username: allhandsactivea2
-
 # Build settings
 kramdown:
   input: GFM
