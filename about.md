@@ -50,7 +50,7 @@ We strive to be as accessible as possible with low costs, classes and a
 welcoming environment for all. Good things happen when we lower barriers
 between people and their creativity.
 
-<hr>
+---
 
 {% include feature_row id="feature_row1" type="center" %}
 
