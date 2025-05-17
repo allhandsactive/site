@@ -2,7 +2,7 @@
 
 Welcome to All Hands Active's source code for our website!
 
-This document will help you teach you how to contribute to our website.
+This document will help teach you how to contribute to our website.
 Thank you for helping us make our website better!
 
 - [Contributing](#contributing)
@@ -108,7 +108,7 @@ Next, create a new branch with
 git branch -c <feat/<NAME_OF_CHANGE>
 ```
 
-Try to name it something description, like a branch for creating a contributing document would be named feat/add-contributing.md
+Try to name it something descriptive, like a branch for creating a contributing document would be named feat/add-contributing.md
 
 
 ### Pushing changes upstream
