@@ -22,13 +22,13 @@ mastodon_username: aha@a2mi.social
 # Build settings
 kramdown:
   input: GFM
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE', 'jekyll-remote-theme-*']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE']
 include: ["_pages", ".well-known"]
 permalink: pretty
 
 
 # Theme settings
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: 'air'
 title_separator: '|'
 teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
@@ -54,13 +54,6 @@ footer:
       url: "https://a2mi.social/@aha"
 
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 # set the proper timezone
 timezone: America/Detroit
