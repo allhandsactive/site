@@ -3,6 +3,8 @@ source "https://rubygems.org"
 
 ruby "3.2.2"
 
+gem "minimal-mistakes-jekyll", "=4.24.0"
+
 group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
