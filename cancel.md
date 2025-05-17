@@ -1,10 +1,8 @@
 ---
-title: "Payment Canceled"
+title: Payment Canceled
 layout: single
 permalink: /cancel
-
 ---
-
 
 ## I Still Want to Take the Class
 All Hands Active is committed to spreading knowledge. We won't keep anyone from attending a class. But we are sustained by donations! Can you give at least $1?
@@ -18,7 +16,8 @@ All Hands Active is committed to spreading knowledge. We won't keep anyone from 
 
 ## This Class isn't for Me
 
-### Stay informed about all things All Hands Active! 
+### Stay informed about all things All Hands Active!
+
 Sign up for our email list or follow us on social media (at the bottom of the page).
 
 <!-- Begin Mailchimp Signup Form -->
