@@ -18,6 +18,7 @@ facebook_username: AHA-All-Hands-Active-300100514925
 meetup_username: allhandsactive
 github_username:  allhandsactive
 mastodon_username: aha@a2mi.social
+instagram_username: allhandsactivea2
 
 # Build settings
 kramdown:
@@ -40,18 +41,23 @@ footer:
     - label: "Meetup"
       icon: "fab fa-fw fa-meetup"
       url: "https://www.meetup.com/AllHandsActive/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/allhandsactive"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/allhandsactivea2/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/allhandsactive/"
+    - label: "Matrix"
+      url: "https://chat.allhandsactive.org"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://a2mi.social/@aha"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/allhandsactivea2/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram-square"
+      url: "https://www.instagram.com/allhandsactivea2/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/allhandsactive/"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://rhino.li/discord"
 
 
 # Plugins
