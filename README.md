@@ -1,8 +1,13 @@
 # Site
-Jekyll Site for AHA.
 
-## Theme
-Site built with the Minimal Mistakes theme. [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+Jekyll Site for All Hands Active, a community-ran makerspace serving the community for over 15 years.
 
-## Local testing
-To test the site locally, run `bundle exec jekyll serve` and navigate to `localhost:4000`.
+## About
+
+This site is built with ruby and jekyll, and is publicly avaiable at <https://allhandsactive.org>,
+
+We're using the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) theme for the majority of our website.
+
+## Contributing
+
+If you are interested in contributing, please see [CONTRIBUTING](./CONTRIBUTING.md).
