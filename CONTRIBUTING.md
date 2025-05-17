@@ -88,7 +88,7 @@ Please note that jekyll will not automatically reload the frontend, so you'll ne
 
 ## Making changes
 
-> [!Warning] Hold up
+> [!Warning]
 >
 > BEFORE starting work on an issue, please make sure that there is an open issue for your change, and that someone else is not already working on it.
 > We hate seeing contributions go to waste as multiple people were working on it.
