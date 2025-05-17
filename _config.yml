@@ -61,6 +61,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-target-blank
 
 # set the proper timezone
 timezone: America/Detroit
