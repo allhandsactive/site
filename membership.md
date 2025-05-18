@@ -1,39 +1,39 @@
 ---
-title: "Membership"
+title: Membership
 layout: splash
 permalink: /membership
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/steam-expo-pano.jpg
   actions:
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "/donate"
-excerpt: "Join the community!"
+    - label: Visit
+      url: /visit
+    - label: Donate
+      url: /donate
+excerpt: Join the community!
 
 feature_row1:
-  - title: "Supporting <br /> $125 or more / month"
+  - title: Supporting <br /> $125 or more / month
     excerpt: >-
       Supporting members contribute financial resources we need to survive
       and thrive. They are listed on our [Supporters](/supporters) page with their name or a logo of their choice.
-  - title: "Volunteer<br />$0 + 10hr / month"
+  - title: Volunteer<br />$0 + 10hr / month
     excerpt: >-
       Volunteers keep AHA running with critical recurring contributions such
       as hosting public hours, teaching classes, or board service.
-  - title: "Standard<br />$65 + 1hr / month"
+  - title: Standard<br />$65 + 1hr / month
     excerpt: >-
       Standard membership includes all the benefits of membership at a rate
       we hope most can afford.
-  - title: "Reduced Rate<br />$25 + 5hr / month"
+  - title: Reduced Rate<br />$25 + 5hr / month
     excerpt: >-
       Reduced Rate members contribute their time while still financially supporting AHA!
-  - title: "Household<br />$15 / +1 / month"
+  - title: Household<br />$15 / +1 / month
     excerpt: >-
       Any membership may be extended to people in the same household for an
       additional $15 per person per month.
-  - title: "Community<br />(flexible)"
+  - title: Community<br />(flexible)
     excerpt: >-
       Have something to contribute to AHA but none of these is right for you or
       within your means? Talk to us!
@@ -66,11 +66,18 @@ on the mailing list to fixing something that's broken.
 ## Membership Process
 {: .text-center}
 
-1. Complete and submit the [liability form](https://rhino.li/liability-waiver-form) in person.
-2. Read and understand our [Anti-Harassment Policy](https://rhino.li/anti-harassment-policy).
-3. Fill out our [new member form](https://rhino.li/membership-application) online.
-4. Make arrangements for payment. Paying via PayPal (see below) is a great option, but you may also pay via cash or check. Contact board@allhandsactive.org to arrange anything other than paypal.
-5. (optional) For key-card any-time access to the space, complete your first month's volunteer hours and then contact [board@allhandsactive.org](mailto:board@allhandsactive.org) or use the operations channel on [Matrix](https://chat.allhandsactive.org). Matrix is also a great place to find volunteer opportunities.
+1. Complete and submit the [liability form](https://rhino.li/liability-waiver-form) in
+   person.
+1. Read and understand our
+   [Anti-Harassment Policy](https://rhino.li/anti-harassment-policy).
+1. Fill out our [new member form](https://rhino.li/membership-application) online.
+1. Make arrangements for payment. Paying via PayPal (see below) is a great option, but
+   you may also pay via cash or check. Contact board@allhandsactive.org to arrange
+   anything other than paypal.
+1. (optional) For key-card any-time access to the space, complete your first month's
+   volunteer hours and then contact <board@allhandsactive.org> or use the operations
+   channel on [Matrix](https://chat.allhandsactive.org). Matrix is also a great place to
+   find volunteer opportunities.
 
 ## Pay For a Membership via Paypal
 {: .text-center}

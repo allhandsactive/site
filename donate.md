@@ -1,24 +1,27 @@
 ---
-title: "Donate"
+title: Donate
 layout: splash
 permalink: /donate
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/donationbox.jpg
   actions:
-    - label: "Email"
-      url: "mailto:info@allhandsactive.org"
-    - label: "Take a class"
-      url: "https://www.meetup.com/AllHandsActive/events/"
-      
-excerpt: "Reach us by email, or visit us in person."
+    - label: Email
+      url: mailto:info@allhandsactive.org
+    - label: Take a class
+      url: https://www.meetup.com/AllHandsActive/events/
+excerpt: Reach us by email, or visit us in person.
 ---
 
 ## Donate to All Hand Active
-All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. There are several ways you can help us out:
+
+All Hands Active depends on your generosity. 
+Any donation helps, but we are especially grateful for recurring donations. 
+There are several ways you can help us out:
 
 ### PayPal
+
 Use the button below to make a one-time or recurring donation!
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -29,15 +32,19 @@ Use the button below to make a one-time or recurring donation!
 </form>
 
 ### Patreon
+
 We also have a [Patreon](https://www.patreon.com/AllHandsActive) - please consider supporting us there!
 
 ### Donation box/tip jar, in person
+
 If you find your visit to AHA insightful or useful, or you'd like to offset the cost of tool maintenance or materials, please consider dropping a few dollars in our tip jar while you're visiting! There is also a locked grey donation box on the pillar to the right of the entrance for larger contributions.
 
 ## All Hands Active wishlist
+
 We have a [wishlist](https://rhino.li/wish-list) that we would greatly appreciate donations from, and if you think the space is missing something, [submit a new item to the wishlist](https://rhino.li/wish-list-addition).
 
 ## About All Hands Active
+
 AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
 
 ![All Hands Active Members](/assets/images/AHA Members.jpeg)
