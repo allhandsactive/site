@@ -1,32 +1,35 @@
 ---
-title: "About"
+title: About
 layout: single
 classes: wide
 permalink: /about
 author_profile: true
 author: AHA
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.6"
+  overlay_color: '#000'
+  overlay_filter: '0.6'
   overlay_image: /assets/images/prayerwire.jpg
   actions:
-    - label: "Visit"
-      url: "/visit"
-    - label: "Donate"
-      url: "/donate"
-excerpt: "We're a welcoming community of makers and hackers
+    - label: Visit
+      url: /visit
+    - label: Donate
+      url: /donate
+excerpt: |
+  We're a welcoming community of makers and hackers
   committed to sharing and democratizing technology&mdash;from
   circuitboard prototyping to spinning wool.
   Founded in 2009, AHA! is Ann Arbor's original makerspace and
   hackerspace. We centralize resources, tools, and expertise for
-  _learning_, _making_, and _doing_."
+  _learning_, _making_, and _doing_.
 
 feature_row1:
-  - title: "We depend on community support!"
-    excerpt: "We are a valuable community resource, and in turn we are supported directly by the community. Please consider how you can support us in our mission!"
-    url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
-    btn_label: "Donate"
-    btn_class: "btn--primary"
+  - title: We depend on community support!
+    excerpt: |
+      We are a valuable community resource, and in turn we are supported directly by the
+      community. Please consider how you can support us in our mission!
+    url: https://www.gofundme.com/f/aha-2019-2020-fundraiser
+    btn_label: Donate
+    btn_class: btn--primary
 ---
 
 ![image-left](/assets/images/partsbins-landscape.jpg){: .align-left; style="max-width: 33%; float: left; margin-top: .9em; margin-right: 1em; border-radius: .25em"}
@@ -50,7 +53,7 @@ We strive to be as accessible as possible with low costs, classes and a
 welcoming environment for all. Good things happen when we lower barriers
 between people and their creativity.
 
-<hr>
+---
 
 {% include feature_row id="feature_row1" type="center" %}
 
