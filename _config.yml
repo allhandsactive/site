@@ -12,13 +12,6 @@ baseurl: ''
 url: 'https://allhandsactive.org'
 repository: 'allhandsactive/site'
 
-# Social media variables
-twitter_username: AllHandsActive
-facebook_username: AHA-All-Hands-Active-300100514925
-meetup_username: allhandsactive
-github_username:  allhandsactive
-mastodon_username: aha@a2mi.social
-
 # Build settings
 kramdown:
   input: GFM
@@ -40,18 +33,24 @@ footer:
     - label: "Meetup"
       icon: "fab fa-fw fa-meetup"
       url: "https://www.meetup.com/AllHandsActive/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/allhandsactive"
+    - label: "Matrix Chat"
+      url: "https://chat.allhandsactive.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/allhandsactivea2/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/allhandsactive/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram icon-blackify"
+      url: "https://www.instagram.com/allhandsactivea2/"
     - label: "Mastodon"
-      icon: "fab fa-mastodon"
+      icon: "fab fa-mastodon icon-blackify"
       url: "https://a2mi.social/@aha"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://rhino.li/discord"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/allhandsactive/"
+
 
 
 # Plugins
