@@ -28,7 +28,7 @@ feature_row1:
   - title: "Public Hours"
     excerpt: >-
       **Thursday 6-8 PM** Repairsday <br />
-      **Saturday 2-6 PM** Open Hours <br />
+      **Sunday 2-6 PM** Open Hours <br />
       These are subject to change -- the latest public hours are always on our <a href="https://www.meetup.com/AllHandsActive/events/">meetup.com page</a>
   - title: "Events"
     excerpt: >-
