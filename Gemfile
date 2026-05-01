@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-compose"
   gem "webrick"
+  gem "jekyll-target-blank"
 end
 
 # testing
