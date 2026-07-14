@@ -22,7 +22,7 @@ mastodon_username: aha@a2mi.social
 # Build settings
 kramdown:
   input: GFM
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE', 'jekyll-remote-theme-*']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE', 'jekyll-remote-theme-*', "CONTRIBUTING.md"]
 include: ["_pages", ".well-known"]
 permalink: pretty
 
