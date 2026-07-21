@@ -28,7 +28,7 @@ feature_row1:
       we hope most can afford.
   - title: "Reduced Rate<br />$25 + 5hr / month"
     excerpt: >-
-      Reduced Rate members contribute their time while still financially supporting AHA!
+      Reduced Rate members contribute their time while still financially supporting AHA.
   - title: "Household<br />$15 / +1 / month"
     excerpt: >-
       Any membership may be extended to people in the same household for an
@@ -43,7 +43,7 @@ feature_row1:
 {: .text-center}
 
 Becoming a member is the best way to support AHA. Our members' skills, passion
-and desire to share knowledge are what make AHA!  great. Members also gain
+and desire to share knowledge are what make AHA great. Members also gain
 access to low- and high-tech tools and equipment most people wouldn't likely
 have at home (CNC/Laser Cutter/3D Printer/Vinyl Cutter).
 {: .text-justify}
