@@ -16,13 +16,6 @@ To keep supporting the community, we depend on community support.
 
 If you'd like to join this list, click "Donate" above or "Email" to discuss further.
 
-## Corporate Sponsors
-
-[![Digital Ocean Logo](/assets/images/DO_Logo_Horizontal_Blue.png)](https://www.digitalocean.com/)
-
-[![Secratic Logo](/assets/images/secratic.png)](https://secratic.com/)
-
-
 ## Individual Donors
 
 Thanks to the follow individuals who have donated to recent AHA fundraisers:
