@@ -24,7 +24,7 @@ excerpt: "We're a welcoming community of makers and hackers
 feature_row1:
   - title: "We depend on community support!"
     excerpt: "We are a valuable community resource, and in turn we are supported directly by the community. Please consider how you can support us in our mission!"
-    url: "https://www.gofundme.com/f/aha-2019-2020-fundraiser"
+    url: "/donate"
     btn_label: "Donate"
     btn_class: "btn--primary"
 ---
