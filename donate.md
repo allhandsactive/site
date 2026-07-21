@@ -38,7 +38,7 @@ If you find your visit to AHA insightful or useful, or you'd like to offset the 
 We have a [wishlist](https://rhino.li/wish-list) that we would greatly appreciate donations from, and if you think the space is missing something, [submit a new item to the wishlist](https://rhino.li/wish-list-addition).
 
 ## About All Hands Active
-AHA!/All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
+All Hands Active is Ann Arbor's volunteer-run community-resource makerspace and we need your support!  Your donation covers expenses, classes, and tools.
 
 ![All Hands Active Members](/assets/images/AHA Members.jpeg)
 

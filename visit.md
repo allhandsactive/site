@@ -18,7 +18,7 @@ feature_row1:
     excerpt: >-
       <p>255 E. Liberty St. Suite 225<br/>
       Ann Arbor, MI 48104</p>
-      <p>AHA! is conveniently located downtown on Liberty Street in the
+      <p>AHA is conveniently located downtown on Liberty Street in the
       basement below the Afternoon Delight Cafe.</p>
       <p>Enter by the double doors between Underground Sound and Nagomi Sushi
       on Liberty, then head downstairs! We're way in the back.</p>
