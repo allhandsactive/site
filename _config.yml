@@ -4,6 +4,7 @@ subtitle: 255 E. Liberty St. Ste 225
 author:
   name: All Hands Active
   email: board@allhandsactive.org
+  fediverse: "@AHA@a2mi.social"
 description: >-
   Ann Arbor's Maker Space! Offering tools, resources, classes,
   meet-ups, events, and workspace for makers and hackers in the
@@ -24,7 +25,7 @@ permalink: pretty
 remote_theme: mmistakes/minimal-mistakes@4.28.0
 minimal_mistakes_skin: 'air'
 title_separator: '|'
-teaser: /assets/images/electronics-repair.jpg # fallback teaser, overridden in page yaml
+teaser: /assets/images/ahayarn.jpg # fallback teaser, overridden in page yaml
 logo: /assets/images/rhino.png
 
 # Footer socials
