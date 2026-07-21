@@ -16,7 +16,12 @@ excerpt: "Reach us by email, or visit us in person."
 ---
 
 ## Donate to All Hand Active
-All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations. There are several ways you can help us out:
+
+All Hands Active depends on your generosity. Any donation helps, but we are especially grateful for recurring donations.
+
+All Hands Active is a registered 501(c)(3) non-profit, so all donations are tax deductable. If you need a receipt or have non-monentary donations, please [get in touch](/contact)!
+
+There are several ways you can help us out:
 
 ### PayPal
 Use the button below to make a one-time or recurring donation!
