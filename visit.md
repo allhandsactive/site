@@ -20,11 +20,11 @@ feature_row1:
       Ann Arbor, MI 48104</p>
       <p>AHA is conveniently located downtown on Liberty Street in the
       basement below the Afternoon Delight Cafe.</p>
-      <p>Enter by the double doors between Underground Sound and Nagomi Sushi
+      <p>Enter by the double doors between Kanbu Sushi and Kanbu Asian Mart
       on Liberty, then head downstairs! We're way in the back.</p>
       <p><b>Accessible entrance:</b><br />
-      A door at ground level behind the building off the parking lot off N
-      5th Ave leads to an elevator.</p>
+      A manual door at ground level behind the building off the parking lot off N
+      5th Ave leads to an elevator with 32" wide doors.</p>
   - title: "Public Hours"
     excerpt: >-
       **Thursday 6-8 PM** Repairsday <br />
