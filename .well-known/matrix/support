@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "email_address": "operations@allhandsactive.org",
+      "role": "m.role.admin"
+    },
+    {
+      "email_address": "operations@allhandsactive.org",
+      "role": "m.role.security"
+    }
+  ]
+}
