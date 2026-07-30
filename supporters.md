@@ -6,6 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.6"
   overlay_image: /assets/images/donationbox.jpg
+  actions:
+    - label: "Email"
+      url: "mailto:info@allhandsactive.org"
+    - label: "Donate"
+      url: "/donate"
 excerpt: "These companies and individuals help keep our lights on."
 ---
 
